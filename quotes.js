@@ -1,4 +1,4 @@
-const defaultQuotes = [
+[
   {
     author: "Paulo Coelho",
     datetime: "",
