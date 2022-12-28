@@ -3,7 +3,7 @@
     "author": "Paulo Coelho",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://twitter.com/paulocoelho",
     "text": "Relax. You can’t save someone from themselves"
   },
   {
@@ -26,5 +26,54 @@
     "gender": "f",
     "reference": "",
     "text": "No one would remember the Good Samaritan if he’d only had good intentions; he had money, too"
-  }
+  },
+    {
+    "author": "Abraham Lincoln",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/LincolnQuot",
+    "text": "That some achieve great success, is proof to all that others can achieve it as well"
+  },
+  {
+    "author": "Helen Keller",
+    "datetime": "",
+    "gender": "f",
+    "reference": "",
+    "text": "Your success and happiness lie in you"
+  },
+  {
+    "author": "Winston Churchill",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "text": "Success is going from failure to failure without losing your enthusiasm"
+  },
+  {
+    "author": "William Menninger",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "text": "Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity"
+  },
+  {
+    "author": "Ming-Dao Deng",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/dengmingdao",
+    "text": "Life is a constant series of opportunities"
+  },
+  {
+    "author": "Nelson Mandela",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "text": "Live life as though nobody is watching, and express yourself as though everyone is listening"
+  },
+  {
+    "author": "Carla Gordon",
+    "datetime": "",
+    "gender": "f",
+    "reference": "",
+    "text": "If someone in your life talked to you the way you talk to yourself, you would have left them long ago"
+  },
 ]
