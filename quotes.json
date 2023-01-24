@@ -1,5 +1,6 @@
 [
   {
+    "id": "11109bd4-cb97-40b4-be22-c17c42e101e0",
     "author": "Paulo Coelho",
     "datetime": "",
     "gender": "m",
@@ -7,6 +8,7 @@
     "text": "Relax. You can’t save someone from themselves"
   },
   {
+    "id": "2518c988-2c92-467f-a696-ed0db1cbc493",   
     "author": "@raydalio",
     "datetime": "",
     "gender": "m",
@@ -14,6 +16,7 @@
     "text": "Pain + Reflection = Progress"
   },
   {
+    "id": "674dcaba-b1b5-45f4-afcd-b43ab968c439",
     "author": "@growthclinicc",
     "datetime": "",
     "gender": "m",
@@ -21,6 +24,7 @@
     "text": "If you lack discipline, you'll become the big talking mediocre"
   },
   {
+    "id": "52c9fc44-ec69-4754-b8d8-aaedc964dfc2",
     "author": "Margaret Thatcher",
     "datetime": "",
     "gender": "f",
@@ -28,6 +32,7 @@
     "text": "No one would remember the Good Samaritan if he’d only had good intentions; he had money, too"
   },
   {
+    "id": "31acef5e-89c1-4e28-b039-93797d6d8c82",
     "author": "Abraham Lincoln",
     "datetime": "",
     "gender": "m",
@@ -35,6 +40,7 @@
     "text": "That some achieve great success, is proof to all that others can achieve it as well"
   },
   {
+    "id": "c9f5696f-fb8f-4bfd-a313-da4905096eef",
     "author": "Helen Keller",
     "datetime": "",
     "gender": "f",
@@ -42,6 +48,7 @@
     "text": "Your success and happiness lie in you"
   },
   {
+    "id": "a8d1adb4-2bff-4834-9d41-db14a8d650d2",
     "author": "Winston Churchill",
     "datetime": "",
     "gender": "m",
@@ -49,6 +56,7 @@
     "text": "Success is going from failure to failure without losing your enthusiasm"
   },
   {
+    "id": "0a21e09b-879a-4a33-8ae4-d99dac971456",
     "author": "William Menninger",
     "datetime": "",
     "gender": "m",
@@ -56,6 +64,7 @@
     "text": "Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity"
   },
   {
+    "id": "33354f0c-24c2-483a-9327-b749d542c090",
     "author": "Ming-Dao Deng",
     "datetime": "",
     "gender": "m",
@@ -63,6 +72,7 @@
     "text": "Life is a constant series of opportunities"
   },
   {
+    "id": "63170300-75b5-452b-89e0-216ea63b5b9c",
     "author": "Richard Bach",
     "datetime": "",
     "gender": "m",
@@ -70,6 +80,7 @@
     "text": "A tiny change today brings a dramatically different tomorrow"
   },
   {
+    "id": "d162ee60-3064-415e-8ec1-ad6046fd3858",
     "author": "Carla Gordon",
     "datetime": "",
     "gender": "f",
