@@ -54,24 +54,6 @@
     "text": "Your success and happiness lie in you"
   },
   {
-    "id": "a8d1adb4-2bff-4834-9d41-db14a8d650d2",
-    "author": "Winston Churchill",
-    "datetime": "",
-    "gender": "m",
-    "reference": "",
-    "tags": "",
-    "text": "Success is going from failure to failure without losing your enthusiasm"
-  },
-  {
-    "id": "0a21e09b-879a-4a33-8ae4-d99dac971456",
-    "author": "William Menninger",
-    "datetime": "",
-    "gender": "m",
-    "reference": "",
-    "tags": "",
-    "text": "Six essential qualities that are the key to success: Sincerity, personal integrity, humility, courtesy, wisdom, charity"
-  },
-  {
     "id": "33354f0c-24c2-483a-9327-b749d542c090",
     "author": "Ming-Dao Deng",
     "datetime": "",
@@ -97,5 +79,176 @@
     "reference": "",
     "tags": "",
     "text": "If someone in your life talked to you the way you talk to yourself, you would have left them long ago"
-  }
+  },
+  {
+    "id": "1d9e40b5-513f-4e72-8b2b-715843db8562",
+    "author": "Winston Churchill",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Success, Courage",
+    "text": "Success is not final, failure is not fatal: It is the courage to continue that counts"
+  },
+  {
+    "id": "335fd234-6f2a-4be2-b0e9-1240b522954b",
+    "author": "Bo Bennett",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Success",
+    "text": "Success is not in what you have, but who you are"
+  },
+  {
+    "id": "f5a76f90-c00c-4a60-99e1-d7e9346319cd",
+    "author": "Vidal Sassoon",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Success",
+    "text": "The only place where success comes before work is in the dictionary"
+  },
+  {
+    "id": "8fb52bb5-74ed-4e10-a2da-0fb7f3f4c6e8",
+    "author": "Albert Schweitzer",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Happiness, Success",
+    "text": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful"
+  },
+  {
+    "id": "5b301c90-956b-4c67-a89b-431a3d80e2c8",
+    "author": "Henry David Thoreau",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Success",
+    "text": "Success usually comes to those who are too busy to be looking for it"
+  },
+  {
+    "id": "09748cc5-2df6-49d7-81c5-5fb57c9de8b2",
+    "author": "Zig Ziglar",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Success",
+    "text": "Success is not about the destination, it's about the journey"
+  },
+  {
+    "id": "aa85cd8e-e7b0-4521-9af9-3c8af2e4e0e9",
+    "author": "Winston Churchill"
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Success",
+    "text": "Success is walking from failure to failure with no loss of enthusiasm"
+  },
+  {
+    "id": "756df6dd-6f1a-4dc4-a89e-1d38f8f4f6f2",
+    "author": "Colin R. Davis",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Success",
+    "text": "The road to success and the road to failure are almost exactly the same"
+  },
+  {
+    "id": "24592a8d-28a6-4816-b7a6-83c5e7e8e2c6",
+    "author": "",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Success",
+    "text": "Success is not just about making money. It's about making a difference.",
+  },
+  {
+    "id": "d158ae3b-9534-4e5c-a2b0-78319318a694",
+    "author": "Maya Angelou",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/DrMayaAngelou",
+    "tags": "Success",
+    "text": "Success is liking yourself, liking what you do, and liking how you do it"
+  },
+  {
+    "id": "1d9e40b5-513f-4e72-8b2b-715843db8562",
+    "author": "Richard Branson",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Entrepreneurship,Success,Leadership",
+    "text": "Business opportunities are like buses, there's always another one coming"
+  },
+  {
+    "id": "335fd234-6f2a-4be2-b0e9-1240b522954b",
+    "author": "Sheryl Sandberg",
+    "datetime": "",
+    "gender": "f",
+    "reference": "",
+    "tags": "Business",
+    "text": "If you're offered a seat on a rocket ship, don't ask what seat! Just get on"
+  },
+  {
+    "id": "f5a76f90-c00c-4a60-99e1-d7e9346319cd",
+    "author": "Warren Buffett",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Wisdom",
+    "text": "It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price"
+  },
+  {
+    "id": "8fb52bb5-74ed-4e10-a2da-0fb7f3f4c6e8",
+    "author": "Oprah Winfrey",
+    "datetime": "",
+    "gender": "f",
+    "reference": "",
+    "tags": "Success, Inspiration",
+    "text": "Think like a queen. A queen is not afraid to fail. Failure is another stepping stone to greatness."
+  },
+  {
+    "id": "756df6dd-6f1a-4dc4-a89e-1d38f8f4f6f2",
+    "author": "Mary Kay Ash",
+    "datetime": "",
+    "gender": "female",
+    "reference": "Mary Kay Cosmetics",
+    "tags": "Business",
+    "text": "Aerodynamically, the bumblebee shouldn't be able to fly, but the bumblebee doesn't know it, so it goes on flying anyway"
+  },
+  {
+    "id": "24592a8d-28a6-4816-b7a6-83c5e7e8e2c6",
+    "author": "Mark Cuban",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Entrepreneurship,Success",
+    "text": "It doesn't matter how many times you fail. You only have to be right once, and then everyone can tell you that you are an overnight success"
+  },
+  {
+    "id": "bd25e94a-6d06-41e8-8e29-4be925cc7b1e",
+    "author": "Sara Blakely",
+    "datetime": "",
+    "gender": "f",
+    "reference": "",
+    "tags": "Entrepreneurship",
+    "text": "It's important to be willing to make mistakes. The worst thing that can happen is you become memorable"
+  },
+  {
+    "id": "c9561a6f-3f2e-4fc9-9f37-58b48f9b6f5e",
+    "author": "Meg Whitman",
+    "datetime": "",
+    "gender": "f",
+    "reference": "",
+    "tags": "Leadership,Success",
+    "text": "Risk more than others think is safe. Dream more than others think is practical"
+  },
+  {
+    "id": "3940a991-9991-4561-8c1d-1e8c7f444e7f",
+    "author": "Ginni Rometty",
+    "datetime": "",
+    "gender": "f",
+    "reference": "",
+    "tags": "Leadership",
+    "text": "Growth and comfort do not coexist"
+  },
 ]
