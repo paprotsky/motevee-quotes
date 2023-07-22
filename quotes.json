@@ -159,7 +159,7 @@
     "gender": "m",
     "reference": "",
     "tags": "Success",
-    "text": "Success is not just about making money. It's about making a difference.",
+    "text": "Success is not just about making money. It's about making a difference"
   },
   {
     "id": "d158ae3b-9534-4e5c-a2b0-78319318a694",
@@ -250,5 +250,5 @@
     "reference": "",
     "tags": "Leadership",
     "text": "Growth and comfort do not coexist"
-  },
+  }
 ]
