@@ -1,6 +1,7 @@
 🌟 Elevate Your Browsing Experience with [Motevee.me](https://motevee.me/)! 🌟
 
-Tired of the same old, uninspiring new tab page on your browser? It's time to awaken your online journey with [Motevee.me](https://motevee.me/) – the browser extension that will infuse your digital world with daily doses of motivation and inspiration!
+Tired of the same old, uninspiring new tab page on your browser?
+It's time to awaken your online journey with [Motevee.me](https://motevee.me/) – the browser extension that will infuse your digital world with daily doses of motivation and inspiration!
 
 💡 **What's [Motevee.me](https://motevee.me/)? Here's the scoop:**
 
