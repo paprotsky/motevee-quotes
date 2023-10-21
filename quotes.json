@@ -250,5 +250,113 @@
     "reference": "",
     "tags": "Leadership",
     "text": "Growth and comfort do not coexist"
-  }
+  },
+  {
+    "id": "1c4f8d02-77c1-4c64-81ce-c5ce3a22a21d",
+    "author": "John Lennon",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Life",
+    "text": "Life is what happens when you're busy making other plans."
+  },
+  {
+    "id": "bae4c98a-5d2d-4bca-87d3-d0a0fc5e4b3e",
+    "author": "Abraham Lincoln",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Life",
+    "text": "In the end, it's not the years in your life that count. It's the life in your years."
+  },
+  {
+    "id": "b8a02f22-3dd6-4b27-bf56-2a895a85bb89",
+    "author": "Helen Keller",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Life",
+    "text": "Life is either a daring adventure or nothing at all."
+  },
+  {
+    "id": "a2bcb31b-eaa7-4ae6-ae5e-d93ed3731d96",
+    "author": "Charles R. Swindoll",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Life",
+    "text": "Life is 10% what happens to us and 90% how we react to it."
+  },
+  {
+    "id": "6c17a80b-8ed1-4c61-8c59-4a0427df598d",
+    "author": "Sarah Louise Delany",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Life",
+    "text": "Life is short, and it is up to you to make it sweet."
+  },
+  {
+    "id": "6dcd678c-7e4d-4b6d-9dfc-94f33d0c102e",
+    "author": "Sholom Aleichem",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Life",
+    "text": "Life is a dream for the wise, a game for the fool, a comedy for the rich, a tragedy for the poor."
+  },
+  {
+    "id": "b6c3b4ff-5aeb-4eb9-99eb-05e9373670c1",
+    "author": "Oliver Goldsmith",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Life",
+    "text": "Life is a journey that must be traveled no matter how bad the roads and accommodations."
+  },
+  {
+    "id": "cf0ee936-5e92-4f1a-8b71-3d9db5df3b99",
+    "author": "Victor Hugo",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Life",
+    "text": "Life is a flower of which love is the honey.",
+  },
+  {
+    "id": "3c4fc43c-7b1b-4bb1-af1c-108d9186a80c",
+    "author": "Albert Einstein",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Life",
+    "text": "Life is like riding a bicycle. To keep your balance, you must keep moving."
+  },
+  {
+    "id": "69586e03-950c-4b47-b7b0-7556f55ac33f",
+    "author": "Tony Robbins",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Life",
+    "text": "Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more."
+  },
+  {
+    "id": "9cb74b98-18d0-4f8a-8b3d-42f5b96d0c85",
+    "author": "Oscar Wilde",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Life",
+    "text": "Life is too important to be taken seriously."
+  },
+  {
+    "id": "f9c0d7c3-e936-4c66-8be3-97043734f6a5",
+    "author": "Grandma Moses",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Life",
+    "text": "Life is what we make it, always has been, always will be."
+  },
 ]
