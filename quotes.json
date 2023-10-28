@@ -637,5 +637,158 @@
     "reference": "",
     "tags": "Affirmation",
     "text": "I am the author of my own story, and it's a beautiful one"
+  },
+  {
+    "uuid": "e63fb142-98a9-4c61-9a6d-c755f3f785dd",
+    "author": "Peter Drucker",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Business",
+    "text": "The best way to predict the future is to create it"
+  },
+  {
+    "uuid": "575d5f1c-ecbb-4f82-8c84-ee6dd430dbcb",
+    "author": "Steve Jobs",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Business",
+    "text": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work"
+  },
+  {
+    "uuid": "e0ad7cc1-4c42-4d1c-80aa-21a16691433b",
+    "author": "Warren Buffett",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Business",
+    "text": "In the business world, the rearview mirror is always clearer than the windshield"
+  },
+  {
+    "uuid": "39a98cb5-0e6d-4aa2-bc69-43a9532d41ea",
+    "author": "Bill Gates",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Business",
+    "text": "Your most unhappy customers are your greatest source of learning"
+  },
+  {
+    "uuid": "67d1bf0a-04e4-4f5d-9c47-4c1b16f85253",
+    "author": "Richard Branson",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Business",
+    "text": "The best businesses come from thinking about things in a different way and seeing where you can make a difference"
+  },
+  {
+    "uuid": "b18a6e38-890b-48d9-8852-e3eac01f1f38",
+    "author": "Jeff Bezos",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Business",
+    "text": "Your brand is what other people say about you when you're not in the room"
+  },
+  {
+    "uuid": "b6280b4c-96a0-45ed-9529-6eb17931812b",
+    "author": "Chris Grosser",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Business",
+    "text": "Opportunities don't happen. You create them"
+  },
+  {
+    "uuid": "a3fcbbf7-b648-4f47-9bd5-0fcdd2cc1f0e",
+    "author": "John D. Rockefeller",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Business",
+    "text": "Don't be afraid to give up the good to go for the great"
+  },
+  {
+    "uuid": "b13c7b8d-316b-4d53-822d-31c5ad4cfb1a",
+    "author": "Walt Disney",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Business",
+    "text": "The best way to get started is to quit talking and begin doing"
+  },
+  {
+    "uuid": "63cc1ff2-1ed7-44d2-91f8-d83320019cc1",
+    "author": "Theodore Roosevelt",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Business",
+    "text": "The most important single ingredient in the formula of success is knowing how to get along with people"
+  },
+  {
+    "uuid": "94f28c35-618e-4654-a0a7-c36a81a9c8ff",
+    "author": "Jordan Belfort",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Business",
+    "text": "The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it"
+  },
+  {
+    "uuid": "69d1ca3f-08c7-454a-8c6c-b7cfc8c81670",
+    "author": "Steve Jobs",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Business",
+    "text": "Your time is limited, don't waste it living someone else's life"
+  },
+  {
+    "uuid": "eab48b3a-90b7-4966-aeaa-e02ab9d6efed",
+    "author": "Thomas Jefferson",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Business",
+    "text": "I find that the harder I work, the more luck I seem to have"
+  },
+  {
+    "uuid": "f2f06c6d-564f-4e3e-a7aa-9dd97268f8e6",
+    "author": "Warren Buffett",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Business",
+    "text": "The best investment you can make is in yourself"
+  },
+  {
+    "uuid": "f3f16c8e-d87b-46d2-9c3b-cbf9e296ca71",
+    "author": "Richard Branson",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Business",
+    "text": "Do not be embarrassed by your failures, learn from them and start again"
+  },
+  {
+    "uuid": "2c4e4c31-95ed-4a80-bd4d-1cd1c65a7dd3",
+    "author": "Bill Gates",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Business",
+    "text": "It's fine to celebrate success, but it is more important to heed the lessons of failure"
+  },
+  {
+    "uuid": "e1894c6d-90e7-4d2e-8b9c-75ef0668bc0d",
+    "author": "Les Brown",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Business",
+    "text": "The only limits to the possibilities in your life tomorrow are the buts you use today"
   }
 ]
