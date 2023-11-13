@@ -790,5 +790,140 @@
     "reference": "",
     "tags": "Business",
     "text": "The only limits to the possibilities in your life tomorrow are the buts you use today"
-  }
+  },
+  {
+    "uuid": "d7117416-b402-4f6a-8ede-3c36e1a96772",
+    "author": "Wealth Inc",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/WealthInc247/status/1724069361969672316",
+    "tags": "Self-improvement",
+    "text": "Psychology says, the way you speak to yourself matters the most"
+  },
+  {
+    "uuid": "6dc6250b-268b-46b1-a50d-af52b39f629c",
+    "author": "Albert Einstein",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/BusinessnMind/status/1723378677788909951",
+    "tags": "Self-improvement,Life",
+    "text": "If you want to live a happy life, tie it to a goal, not to people or things"
+  },
+  {
+    "uuid": "64c0acb2-ab1e-4fef-a52b-c38fa8efcbba",
+    "author": "F. Matthias Alexander",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Self-improvement",
+    "text": "People do not decide their futures, they decide their habits and their habits decide their futures"
+  },
+  {
+    "uuid": "8ad2b888-99ed-4768-8ea4-01b91d7c8ae9",
+    "author": "",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Self-improvement",
+    "text": "Continuous improvement is better than delayed perfection"
+  },
+  {
+    "id": "7b84c9f7-147a-4d0a-ae8f-7d333de830f7",
+    "author": "Positive Affirmation",
+    "datetime": "",
+    "gender": "a",
+    "reference": "",
+    "tags": "Affirmation",
+    "text": "I'm comfortable in my own skin and am not afraid to express my personality"
+  },
+  {
+    "uuid": "d2777c6f-b141-4483-8949-4cf7073aff8b",
+    "author": "Mark Twain",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Life,Wisdom",
+    "text": "The two most important days in your life are the day you are born and the day you find out why"
+  },
+  {
+    "uuid": "d2777c6f-b141-4483-8949-4cf7073aff8b",
+    "author": "Mark Twain",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Success,Wisdom",
+    "text": "The secret of getting ahead is getting started"
+  },
+  {
+    "uuid": "df75b316-7395-4965-a3a1-111fc53062ca",
+    "author": "Mark Twain",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Wisdom",
+    "text": "Wrinkles should merely indicate where smiles have been"
+  },
+  {
+    "uuid": "083efd76-b61e-4154-b8ae-6e37e8a350f6",
+    "author": "Albert Einstein",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Creativity",
+    "text": "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution"
+  },
+  {
+    "uuid": "cf2065b1-e5e7-41e7-b68f-2be1299d4e10",
+    "author": "Albert Einstein",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Success",
+    "text": "Try not to become a man of success, but rather try to become a man of value"
+  },
+  {
+    "uuid": "1e7da491-3607-482a-b252-fe8356f4b070",
+    "author": "Albert Einstein",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Success",
+    "text": "In the middle of difficulty lies opportunity"
+  },
+  {
+    "uuid": "e22c04ce-60c0-49b0-b21a-6306bb14c01f",
+    "author": "Albert Einstein",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Wisdom",
+    "text": "The difference between genius and stupidity is that genius has its limits"
+  },
+  {
+    "uuid": "202a6519-7b95-41c3-a577-dc1dba84e1f5",
+    "author": "Albert Einstein",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Creativity",
+    "text": "Logic will get you from A to B. Imagination will take you everywhere"
+  },
+  {
+    "uuid": "5e6f91f1-005d-43c6-9353-4275967f1f95",
+    "author": "",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Business",
+    "text": "Compete on <b>value</b>, not price"
+  },
+  {
+    "uuid": "f57a0aa2-659c-4126-abb5-1adc4b7b692d",
+    "author": "",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "tags": "Business",
+    "text": "People buy with <b>emotion</b>, then justify with logic"
+  },
 ]
