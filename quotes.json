@@ -915,7 +915,7 @@
     "gender": "m",
     "reference": "",
     "tags": "Business",
-    "text": "Compete on <b>value</b>, not price"
+    "text": "Compete on value, not price"
   },
   {
     "uuid": "f57a0aa2-659c-4126-abb5-1adc4b7b692d",
@@ -924,6 +924,6 @@
     "gender": "m",
     "reference": "",
     "tags": "Business",
-    "text": "People buy with <b>emotion</b>, then justify with logic"
+    "text": "People buy with emotion, then justify with logic"
   }
 ]
