@@ -925,5 +925,59 @@
     "reference": "",
     "tags": "Business",
     "text": "People buy with emotion, then justify with logic"
+  },
+  {
+    "uuid": "afa14e7d-8a5d-4f6a-bb33-0b062f32c9f0",
+    "author": "Dave Ramsey",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/DaveRamsey",
+    "tags": "Money",
+    "text": "You must gain control over your money or the lack of it will forever control you"
+  },
+  {
+    "uuid": "56f0c739-13d4-42ab-a97a-dc3db07bf862",
+    "author": "Dave Ramsey",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/DaveRamsey",
+    "tags": "Money",
+    "text": "Those who don’t manage their money will always work for those who do"
+  },
+  {
+    "uuid": "96b6e7e2-0b34-4d05-8e5b-33a2c1c2d980",
+    "author": "Dave Ramsey",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/DaveRamsey",
+    "tags": "Self-improvement",
+    "text": "Change is painful. Few people have the courage to seek out change. Most people won’t change until the pain of where they are exceeds the pain of change"
+  },
+  {
+    "uuid": "c8a4f057-5d7e-4a88-a4cf-83f00e0b1f16",
+    "author": "Dave Ramsey",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/DaveRamsey",
+    "tags": "Self-improvement",
+    "text": "Pray like it all depends on God, but work like it all depends on you"
+  },
+  {
+    "uuid": "c8a4f057-5d7e-4a88-a4cf-83f00e0b1f16",
+    "author": "Seth Godin",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/ThisIsSethsBlog",
+    "tags": "Self-improvement",
+    "text": "Instead of wondering when your next vacation is, maybe you should set up a life you don't need to escape from"
+  },
+  {
+    "uuid": "5b48718d-67fd-4db4-aa4e-4e92f6bb0a9b",
+    "author": "Seth Godin",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/ThisIsSethsBlog",
+    "tags": "Self-improvement",
+    "text": "Anxiety is experiencing failure in advance"
   }
 ]
