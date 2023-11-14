@@ -963,7 +963,7 @@
     "text": "Pray like it all depends on God, but work like it all depends on you"
   },
   {
-    "uuid": "c8a4f057-5d7e-4a88-a4cf-83f00e0b1f16",
+    "uuid": "a2c33ec7-9c5c-4fc6-9d0b-7e540a5ee11a",
     "author": "Seth Godin",
     "datetime": "",
     "gender": "m",
@@ -979,5 +979,23 @@
     "reference": "https://twitter.com/ThisIsSethsBlog",
     "tags": "Self-improvement",
     "text": "Anxiety is experiencing failure in advance"
+  },
+  {
+    "uuid": "9d6d75a9-6cfe-4cc6-8d44-82932eb1c8ec",
+    "author": "Elena Cardone",
+    "datetime": "",
+    "gender": "f",
+    "reference": "https://twitter.com/ElenaCardone",
+    "tags": "Self-improvement",
+    "text": "Act like the person you want to become"
+  },
+  {
+    "uuid": "d1f2b032-cb42-4f3c-a996-4b2f9bc33587",
+    "author": "Elena Cardone",
+    "datetime": "",
+    "gender": "f",
+    "reference": "https://twitter.com/ElenaCardone",
+    "tags": "Self-improvement",
+    "text": "If you need something to believe in, start with yourself"
   }
 ]
