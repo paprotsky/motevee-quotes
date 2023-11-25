@@ -639,7 +639,7 @@
     "text": "I am the author of my own story, and it's a beautiful one"
   },
   {
-    "uuid": "e63fb142-98a9-4c61-9a6d-c755f3f785dd",
+    "id": "e63fb142-98a9-4c61-9a6d-c755f3f785dd",
     "author": "Peter Drucker",
     "datetime": "",
     "gender": "m",
@@ -648,7 +648,7 @@
     "text": "The best way to predict the future is to create it"
   },
   {
-    "uuid": "575d5f1c-ecbb-4f82-8c84-ee6dd430dbcb",
+    "id": "575d5f1c-ecbb-4f82-8c84-ee6dd430dbcb",
     "author": "Steve Jobs",
     "datetime": "",
     "gender": "m",
@@ -657,7 +657,7 @@
     "text": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work"
   },
   {
-    "uuid": "e0ad7cc1-4c42-4d1c-80aa-21a16691433b",
+    "id": "e0ad7cc1-4c42-4d1c-80aa-21a16691433b",
     "author": "Warren Buffett",
     "datetime": "",
     "gender": "m",
@@ -666,7 +666,7 @@
     "text": "In the business world, the rearview mirror is always clearer than the windshield"
   },
   {
-    "uuid": "39a98cb5-0e6d-4aa2-bc69-43a9532d41ea",
+    "id": "39a98cb5-0e6d-4aa2-bc69-43a9532d41ea",
     "author": "Bill Gates",
     "datetime": "",
     "gender": "m",
@@ -675,7 +675,7 @@
     "text": "Your most unhappy customers are your greatest source of learning"
   },
   {
-    "uuid": "67d1bf0a-04e4-4f5d-9c47-4c1b16f85253",
+    "id": "67d1bf0a-04e4-4f5d-9c47-4c1b16f85253",
     "author": "Richard Branson",
     "datetime": "",
     "gender": "m",
@@ -684,7 +684,7 @@
     "text": "The best businesses come from thinking about things in a different way and seeing where you can make a difference"
   },
   {
-    "uuid": "b18a6e38-890b-48d9-8852-e3eac01f1f38",
+    "id": "b18a6e38-890b-48d9-8852-e3eac01f1f38",
     "author": "Jeff Bezos",
     "datetime": "",
     "gender": "m",
@@ -693,7 +693,7 @@
     "text": "Your brand is what other people say about you when you're not in the room"
   },
   {
-    "uuid": "b6280b4c-96a0-45ed-9529-6eb17931812b",
+    "id": "b6280b4c-96a0-45ed-9529-6eb17931812b",
     "author": "Chris Grosser",
     "datetime": "",
     "gender": "m",
@@ -702,7 +702,7 @@
     "text": "Opportunities don't happen. You create them"
   },
   {
-    "uuid": "a3fcbbf7-b648-4f47-9bd5-0fcdd2cc1f0e",
+    "id": "a3fcbbf7-b648-4f47-9bd5-0fcdd2cc1f0e",
     "author": "John D. Rockefeller",
     "datetime": "",
     "gender": "m",
@@ -711,7 +711,7 @@
     "text": "Don't be afraid to give up the good to go for the great"
   },
   {
-    "uuid": "b13c7b8d-316b-4d53-822d-31c5ad4cfb1a",
+    "id": "b13c7b8d-316b-4d53-822d-31c5ad4cfb1a",
     "author": "Walt Disney",
     "datetime": "",
     "gender": "m",
@@ -720,7 +720,7 @@
     "text": "The best way to get started is to quit talking and begin doing"
   },
   {
-    "uuid": "63cc1ff2-1ed7-44d2-91f8-d83320019cc1",
+    "id": "63cc1ff2-1ed7-44d2-91f8-d83320019cc1",
     "author": "Theodore Roosevelt",
     "datetime": "",
     "gender": "m",
@@ -729,7 +729,7 @@
     "text": "The most important single ingredient in the formula of success is knowing how to get along with people"
   },
   {
-    "uuid": "94f28c35-618e-4654-a0a7-c36a81a9c8ff",
+    "id": "94f28c35-618e-4654-a0a7-c36a81a9c8ff",
     "author": "Jordan Belfort",
     "datetime": "",
     "gender": "m",
@@ -738,7 +738,7 @@
     "text": "The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it"
   },
   {
-    "uuid": "69d1ca3f-08c7-454a-8c6c-b7cfc8c81670",
+    "id": "69d1ca3f-08c7-454a-8c6c-b7cfc8c81670",
     "author": "Steve Jobs",
     "datetime": "",
     "gender": "m",
@@ -747,7 +747,7 @@
     "text": "Your time is limited, don't waste it living someone else's life"
   },
   {
-    "uuid": "eab48b3a-90b7-4966-aeaa-e02ab9d6efed",
+    "id": "eab48b3a-90b7-4966-aeaa-e02ab9d6efed",
     "author": "Thomas Jefferson",
     "datetime": "",
     "gender": "m",
@@ -756,7 +756,7 @@
     "text": "I find that the harder I work, the more luck I seem to have"
   },
   {
-    "uuid": "f2f06c6d-564f-4e3e-a7aa-9dd97268f8e6",
+    "id": "f2f06c6d-564f-4e3e-a7aa-9dd97268f8e6",
     "author": "Warren Buffett",
     "datetime": "",
     "gender": "m",
@@ -765,7 +765,7 @@
     "text": "The best investment you can make is in yourself"
   },
   {
-    "uuid": "f3f16c8e-d87b-46d2-9c3b-cbf9e296ca71",
+    "id": "f3f16c8e-d87b-46d2-9c3b-cbf9e296ca71",
     "author": "Richard Branson",
     "datetime": "",
     "gender": "m",
@@ -774,7 +774,7 @@
     "text": "Do not be embarrassed by your failures, learn from them and start again"
   },
   {
-    "uuid": "2c4e4c31-95ed-4a80-bd4d-1cd1c65a7dd3",
+    "id": "2c4e4c31-95ed-4a80-bd4d-1cd1c65a7dd3",
     "author": "Bill Gates",
     "datetime": "",
     "gender": "m",
@@ -783,7 +783,7 @@
     "text": "It's fine to celebrate success, but it is more important to heed the lessons of failure"
   },
   {
-    "uuid": "e1894c6d-90e7-4d2e-8b9c-75ef0668bc0d",
+    "id": "e1894c6d-90e7-4d2e-8b9c-75ef0668bc0d",
     "author": "Les Brown",
     "datetime": "",
     "gender": "m",
@@ -792,7 +792,7 @@
     "text": "The only limits to the possibilities in your life tomorrow are the buts you use today"
   },
   {
-    "uuid": "d7117416-b402-4f6a-8ede-3c36e1a96772",
+    "id": "d7117416-b402-4f6a-8ede-3c36e1a96772",
     "author": "Wealth Inc",
     "datetime": "",
     "gender": "m",
@@ -801,7 +801,7 @@
     "text": "Psychology says, the way you speak to yourself matters the most"
   },
   {
-    "uuid": "6dc6250b-268b-46b1-a50d-af52b39f629c",
+    "id": "6dc6250b-268b-46b1-a50d-af52b39f629c",
     "author": "Albert Einstein",
     "datetime": "",
     "gender": "m",
@@ -810,7 +810,7 @@
     "text": "If you want to live a happy life, tie it to a goal, not to people or things"
   },
   {
-    "uuid": "64c0acb2-ab1e-4fef-a52b-c38fa8efcbba",
+    "id": "64c0acb2-ab1e-4fef-a52b-c38fa8efcbba",
     "author": "F. Matthias Alexander",
     "datetime": "",
     "gender": "m",
@@ -819,7 +819,7 @@
     "text": "People do not decide their futures, they decide their habits and their habits decide their futures"
   },
   {
-    "uuid": "8ad2b888-99ed-4768-8ea4-01b91d7c8ae9",
+    "id": "8ad2b888-99ed-4768-8ea4-01b91d7c8ae9",
     "author": "",
     "datetime": "",
     "gender": "m",
@@ -837,7 +837,7 @@
     "text": "I'm comfortable in my own skin and am not afraid to express my personality"
   },
   {
-    "uuid": "d2777c6f-b141-4483-8949-4cf7073aff8b",
+    "id": "d2777c6f-b141-4483-8949-4cf7073aff8b",
     "author": "Mark Twain",
     "datetime": "",
     "gender": "m",
@@ -846,7 +846,7 @@
     "text": "The two most important days in your life are the day you are born and the day you find out why"
   },
   {
-    "uuid": "d2777c6f-b141-4483-8949-4cf7073aff8b",
+    "id": "d2777c6f-b141-4483-8949-4cf7073aff8b",
     "author": "Mark Twain",
     "datetime": "",
     "gender": "m",
@@ -855,7 +855,7 @@
     "text": "The secret of getting ahead is getting started"
   },
   {
-    "uuid": "df75b316-7395-4965-a3a1-111fc53062ca",
+    "id": "df75b316-7395-4965-a3a1-111fc53062ca",
     "author": "Mark Twain",
     "datetime": "",
     "gender": "m",
@@ -864,7 +864,7 @@
     "text": "Wrinkles should merely indicate where smiles have been"
   },
   {
-    "uuid": "083efd76-b61e-4154-b8ae-6e37e8a350f6",
+    "id": "083efd76-b61e-4154-b8ae-6e37e8a350f6",
     "author": "Albert Einstein",
     "datetime": "",
     "gender": "m",
@@ -873,7 +873,7 @@
     "text": "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution"
   },
   {
-    "uuid": "cf2065b1-e5e7-41e7-b68f-2be1299d4e10",
+    "id": "cf2065b1-e5e7-41e7-b68f-2be1299d4e10",
     "author": "Albert Einstein",
     "datetime": "",
     "gender": "m",
@@ -882,7 +882,7 @@
     "text": "Try not to become a man of success, but rather try to become a man of value"
   },
   {
-    "uuid": "1e7da491-3607-482a-b252-fe8356f4b070",
+    "id": "1e7da491-3607-482a-b252-fe8356f4b070",
     "author": "Albert Einstein",
     "datetime": "",
     "gender": "m",
@@ -891,7 +891,7 @@
     "text": "In the middle of difficulty lies opportunity"
   },
   {
-    "uuid": "e22c04ce-60c0-49b0-b21a-6306bb14c01f",
+    "id": "e22c04ce-60c0-49b0-b21a-6306bb14c01f",
     "author": "Albert Einstein",
     "datetime": "",
     "gender": "m",
@@ -900,7 +900,7 @@
     "text": "The difference between genius and stupidity is that genius has its limits"
   },
   {
-    "uuid": "202a6519-7b95-41c3-a577-dc1dba84e1f5",
+    "id": "202a6519-7b95-41c3-a577-dc1dba84e1f5",
     "author": "Albert Einstein",
     "datetime": "",
     "gender": "m",
@@ -909,7 +909,7 @@
     "text": "Logic will get you from A to B. Imagination will take you everywhere"
   },
   {
-    "uuid": "5e6f91f1-005d-43c6-9353-4275967f1f95",
+    "id": "5e6f91f1-005d-43c6-9353-4275967f1f95",
     "author": "",
     "datetime": "",
     "gender": "m",
@@ -918,7 +918,7 @@
     "text": "Compete on value, not price"
   },
   {
-    "uuid": "f57a0aa2-659c-4126-abb5-1adc4b7b692d",
+    "id": "f57a0aa2-659c-4126-abb5-1adc4b7b692d",
     "author": "",
     "datetime": "",
     "gender": "m",
@@ -927,7 +927,7 @@
     "text": "People buy with emotion, then justify with logic"
   },
   {
-    "uuid": "afa14e7d-8a5d-4f6a-bb33-0b062f32c9f0",
+    "id": "afa14e7d-8a5d-4f6a-bb33-0b062f32c9f0",
     "author": "Dave Ramsey",
     "datetime": "",
     "gender": "m",
@@ -936,7 +936,7 @@
     "text": "You must gain control over your money or the lack of it will forever control you"
   },
   {
-    "uuid": "56f0c739-13d4-42ab-a97a-dc3db07bf862",
+    "id": "56f0c739-13d4-42ab-a97a-dc3db07bf862",
     "author": "Dave Ramsey",
     "datetime": "",
     "gender": "m",
@@ -945,7 +945,7 @@
     "text": "Those who don’t manage their money will always work for those who do"
   },
   {
-    "uuid": "96b6e7e2-0b34-4d05-8e5b-33a2c1c2d980",
+    "id": "96b6e7e2-0b34-4d05-8e5b-33a2c1c2d980",
     "author": "Dave Ramsey",
     "datetime": "",
     "gender": "m",
@@ -954,7 +954,7 @@
     "text": "Change is painful. Few people have the courage to seek out change. Most people won’t change until the pain of where they are exceeds the pain of change"
   },
   {
-    "uuid": "c8a4f057-5d7e-4a88-a4cf-83f00e0b1f16",
+    "id": "c8a4f057-5d7e-4a88-a4cf-83f00e0b1f16",
     "author": "Dave Ramsey",
     "datetime": "",
     "gender": "m",
@@ -963,7 +963,7 @@
     "text": "Pray like it all depends on God, but work like it all depends on you"
   },
   {
-    "uuid": "a2c33ec7-9c5c-4fc6-9d0b-7e540a5ee11a",
+    "id": "a2c33ec7-9c5c-4fc6-9d0b-7e540a5ee11a",
     "author": "Seth Godin",
     "datetime": "",
     "gender": "m",
@@ -972,7 +972,7 @@
     "text": "Instead of wondering when your next vacation is, maybe you should set up a life you don't need to escape from"
   },
   {
-    "uuid": "5b48718d-67fd-4db4-aa4e-4e92f6bb0a9b",
+    "id": "5b48718d-67fd-4db4-aa4e-4e92f6bb0a9b",
     "author": "Seth Godin",
     "datetime": "",
     "gender": "m",
@@ -981,7 +981,7 @@
     "text": "Anxiety is experiencing failure in advance"
   },
   {
-    "uuid": "9d6d75a9-6cfe-4cc6-8d44-82932eb1c8ec",
+    "id": "9d6d75a9-6cfe-4cc6-8d44-82932eb1c8ec",
     "author": "Jordan B. Peterson",
     "datetime": "",
     "gender": "m",
@@ -990,7 +990,7 @@
     "text": "Act like the person you want to become"
   },
   {
-    "uuid": "d1f2b032-cb42-4f3c-a996-4b2f9bc33587",
+    "id": "d1f2b032-cb42-4f3c-a996-4b2f9bc33587",
     "author": "",
     "datetime": "",
     "gender": "m",
@@ -999,7 +999,7 @@
     "text": "If you need something to believe in, start with yourself"
   },
   {
-    "uuid": "f9e61d4d-715b-4e5e-9e3b-51c03d3a8947",
+    "id": "f9e61d4d-715b-4e5e-9e3b-51c03d3a8947",
     "author": "",
     "datetime": "",
     "gender": "m",
