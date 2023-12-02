@@ -6,7 +6,7 @@
     "gender": "m",
     "reference": "https://twitter.com/paulocoelho",
     "tags": "",
-    "text": "Relax. You can’t save someone from themselves"
+    "text": "Relax. You can’t save someone from themselves."
   },
   {
     "id": "2518c988-2c92-467f-a696-ed0db1cbc493",
@@ -24,7 +24,7 @@
     "gender": "m",
     "reference": "https://twitter.com/growthclinicc",
     "tags": "",
-    "text": "If you lack discipline, you'll become the big talking mediocre"
+    "text": "If you lack discipline, you'll become the big talking mediocre."
   },
   {
     "id": "52c9fc44-ec69-4754-b8d8-aaedc964dfc2",
@@ -33,7 +33,7 @@
     "gender": "f",
     "reference": "https://en.wikipedia.org/wiki/Margaret_Thatcher",
     "tags": "",
-    "text": "No one would remember the Good Samaritan if he’d only had good intentions; he had money, too"
+    "text": "No one would remember the Good Samaritan if he’d only had good intentions; he had money, too."
   },
   {
     "id": "31acef5e-89c1-4e28-b039-93797d6d8c82",
@@ -42,16 +42,16 @@
     "gender": "m",
     "reference": "https://twitter.com/LincolnQuot",
     "tags": "",
-    "text": "That some achieve great success, is proof to all that others can achieve it as well"
+    "text": "That some achieve great success, is proof to all that others can achieve it as well."
   },
   {
     "id": "c9f5696f-fb8f-4bfd-a313-da4905096eef",
     "author": "Helen Keller",
     "datetime": "",
     "gender": "f",
-    "reference": "",
+    "reference": "https://en.wikipedia.org/wiki/Helen_Keller",
     "tags": "",
-    "text": "Your success and happiness lie in you"
+    "text": "Your success and happiness lie in you."
   },
   {
     "id": "33354f0c-24c2-483a-9327-b749d542c090",
@@ -60,70 +60,61 @@
     "gender": "m",
     "reference": "https://twitter.com/dengmingdao",
     "tags": "",
-    "text": "Life is a constant series of opportunities"
+    "text": "Life is a constant series of opportunities."
   },
   {
     "id": "63170300-75b5-452b-89e0-216ea63b5b9c",
     "author": "Richard Bach",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://en.wikipedia.org/wiki/Richard_Bach",
     "tags": "",
-    "text": "A tiny change today brings a dramatically different tomorrow"
+    "text": "A tiny change today brings a dramatically different tomorrow."
   },
   {
     "id": "d162ee60-3064-415e-8ec1-ad6046fd3858",
     "author": "Carla Gordon",
     "datetime": "",
     "gender": "f",
-    "reference": "",
+    "reference": "https://twitter.com/TheCarlaGordon",
     "tags": "",
-    "text": "If someone in your life talked to you the way you talk to yourself, you would have left them long ago"
+    "text": "If someone in your life talked to you the way you talk to yourself, you would have left them long ago."
   },
   {
     "id": "1d9e40b5-513f-4e72-8b2b-715843db8562",
     "author": "Winston Churchill",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://en.wikipedia.org/wiki/Winston_Churchill",
     "tags": "Success, Courage",
-    "text": "Success is not final, failure is not fatal: It is the courage to continue that counts"
+    "text": "Success is not final, failure is not fatal: It is the courage to continue that counts."
   },
   {
     "id": "335fd234-6f2a-4be2-b0e9-1240b522954b",
     "author": "Bo Bennett",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://twitter.com/BoBennett",
     "tags": "Success",
-    "text": "Success is not in what you have, but who you are"
-  },
-  {
-    "id": "f5a76f90-c00c-4a60-99e1-d7e9346319cd",
-    "author": "Vidal Sassoon",
-    "datetime": "",
-    "gender": "m",
-    "reference": "",
-    "tags": "Success",
-    "text": "The only place where success comes before work is in the dictionary"
+    "text": "Success is not in what you have, but who you are."
   },
   {
     "id": "8fb52bb5-74ed-4e10-a2da-0fb7f3f4c6e8",
     "author": "Albert Schweitzer",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://en.wikipedia.org/wiki/Albert_Schweitzer",
     "tags": "Happiness, Success",
-    "text": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful"
+    "text": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful."
   },
   {
     "id": "5b301c90-956b-4c67-a89b-431a3d80e2c8",
     "author": "Henry David Thoreau",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://en.wikipedia.org/wiki/Henry_David_Thoreau",
     "tags": "Success",
-    "text": "Success usually comes to those who are too busy to be looking for it"
+    "text": "Success usually comes to those who are too busy to be looking for it."
   },
   {
     "id": "09748cc5-2df6-49d7-81c5-5fb57c9de8b2",
@@ -132,25 +123,25 @@
     "gender": "m",
     "reference": "https://twitter.com/TheZigZiglar",
     "tags": "Success",
-    "text": "Success is not about the destination, it's about the journey"
+    "text": "Success is not about the destination, it's about the journey."
   },
   {
     "id": "aa85cd8e-e7b0-4521-9af9-3c8af2e4e0e9",
     "author": "Winston Churchill",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://en.wikipedia.org/wiki/Winston_Churchill",
     "tags": "Success",
-    "text": "Success is walking from failure to failure with no loss of enthusiasm"
+    "text": "Success is walking from failure to failure with no loss of enthusiasm."
   },
   {
     "id": "756df6dd-6f1a-4dc4-a89e-1d38f8f4f6f2",
     "author": "Colin R. Davis",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://en.wikipedia.org/wiki/Colin_Davis",
     "tags": "Success",
-    "text": "The road to success and the road to failure are almost exactly the same"
+    "text": "The road to success and the road to failure are almost exactly the same."
   },
   {
     "id": "24592a8d-28a6-4816-b7a6-83c5e7e8e2c6",
@@ -159,7 +150,7 @@
     "gender": "m",
     "reference": "",
     "tags": "Success",
-    "text": "Success is not just about making money. It's about making a difference"
+    "text": "Success is not just about making money. It's about making a difference."
   },
   {
     "id": "d158ae3b-9534-4e5c-a2b0-78319318a694",
@@ -168,7 +159,7 @@
     "gender": "f",
     "reference": "https://twitter.com/DrMayaAngelou",
     "tags": "Success",
-    "text": "Success is liking yourself, liking what you do, and liking how you do it"
+    "text": "Success is liking yourself, liking what you do, and liking how you do it."
   },
   {
     "id": "1d9e40b5-513f-4e72-8b2b-715843db8562",
@@ -177,187 +168,178 @@
     "gender": "m",
     "reference": "https://twitter.com/richardbranson",
     "tags": "Entrepreneurship,Success,Leadership",
-    "text": "Business opportunities are like buses, there's always another one coming"
+    "text": "Business opportunities are like buses, there's always another one coming."
   },
   {
     "id": "335fd234-6f2a-4be2-b0e9-1240b522954b",
     "author": "Sheryl Sandberg",
     "datetime": "",
     "gender": "f",
-    "reference": "",
+    "reference": "https://twitter.com/sherylsandberg",
     "tags": "Business",
-    "text": "If you're offered a seat on a rocket ship, don't ask what seat! Just get on"
+    "text": "If you're offered a seat on a rocket ship, don't ask what seat! Just get on."
   },
   {
     "id": "f5a76f90-c00c-4a60-99e1-d7e9346319cd",
     "author": "Warren Buffett",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://twitter.com/WarrenBuffett",
     "tags": "Wisdom",
-    "text": "It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price"
+    "text": "It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."
   },
   {
     "id": "8fb52bb5-74ed-4e10-a2da-0fb7f3f4c6e8",
     "author": "Oprah Winfrey",
     "datetime": "",
     "gender": "f",
-    "reference": "",
+    "reference": "https://twitter.com/Oprah",
     "tags": "Success, Inspiration",
-    "text": "Think like a queen. A queen is not afraid to fail. Failure is another stepping stone to greatness"
+    "text": "Think like a queen. A queen is not afraid to fail. Failure is another stepping stone to greatness."
   },
   {
     "id": "8568b48e-8377-4e10-ae27-7b95405f486f",
     "author": "Mary Kay Ash",
     "datetime": "",
     "gender": "f",
-    "reference": "Mary Kay Cosmetics",
+    "reference": "https://en.wikipedia.org/wiki/Mary_Kay_Ash",
     "tags": "Business",
-    "text": "Aerodynamically, the bumblebee shouldn't be able to fly, but the bumblebee doesn't know it, so it goes on flying anyway"
+    "text": "Aerodynamically, the bumblebee shouldn't be able to fly, but the bumblebee doesn't know it, so it goes on flying anyway."
   },
   {
     "id": "24592a8d-28a6-4816-b7a6-83c5e7e8e2c6",
     "author": "Mark Cuban",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://twitter.com/mcuban",
     "tags": "Entrepreneurship,Success",
-    "text": "It doesn't matter how many times you fail. You only have to be right once, and then everyone can tell you that you are an overnight success"
+    "text": "It doesn't matter how many times you fail. You only have to be right once, and then everyone can tell you that you are an overnight success."
   },
   {
     "id": "bd25e94a-6d06-41e8-8e29-4be925cc7b1e",
     "author": "Sara Blakely",
     "datetime": "",
     "gender": "f",
-    "reference": "",
+    "reference": "https://en.wikipedia.org/wiki/Sara_Blakely",
     "tags": "Entrepreneurship",
-    "text": "It's important to be willing to make mistakes. The worst thing that can happen is you become memorable"
+    "text": "It's important to be willing to make mistakes. The worst thing that can happen is you become memorable."
   },
   {
     "id": "c9561a6f-3f2e-4fc9-9f37-58b48f9b6f5e",
     "author": "Meg Whitman",
     "datetime": "",
     "gender": "f",
-    "reference": "",
+    "reference": "https://en.wikipedia.org/wiki/Meg_Whitman",
     "tags": "Leadership,Success",
-    "text": "Risk more than others think is safe. Dream more than others think is practical"
+    "text": "Risk more than others think is safe. Dream more than others think is practical."
   },
   {
     "id": "3940a991-9991-4561-8c1d-1e8c7f444e7f",
     "author": "Ginni Rometty",
     "datetime": "",
     "gender": "f",
-    "reference": "",
+    "reference": "https://twitter.com/GinniRometty",
     "tags": "Leadership",
-    "text": "Growth and comfort do not coexist"
+    "text": "Growth and comfort do not coexist."
   },
   {
     "id": "1c4f8d02-77c1-4c64-81ce-c5ce3a22a21d",
     "author": "John Lennon",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://en.wikipedia.org/wiki/John_Lennon",
     "tags": "Life",
-    "text": "Life is what happens when you're busy making other plans"
+    "text": "Life is what happens when you're busy making other plans."
   },
   {
     "id": "bae4c98a-5d2d-4bca-87d3-d0a0fc5e4b3e",
     "author": "Abraham Lincoln",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://twitter.com/LincolnQuot",
     "tags": "Life",
-    "text": "In the end, it's not the years in your life that count. It's the life in your years"
+    "text": "In the end, it's not the years in your life that count. It's the life in your years."
   },
   {
     "id": "b8a02f22-3dd6-4b27-bf56-2a895a85bb89",
     "author": "Helen Keller",
     "datetime": "",
     "gender": "f",
-    "reference": "",
+    "reference": "https://en.wikipedia.org/wiki/Helen_Keller",
     "tags": "Life",
-    "text": "Life is either a daring adventure or nothing at all"
+    "text": "Life is either a daring adventure or nothing at all."
   },
   {
     "id": "a2bcb31b-eaa7-4ae6-ae5e-d93ed3731d96",
     "author": "Charles R. Swindoll",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://en.wikipedia.org/wiki/Chuck_Swindoll",
     "tags": "Life",
-    "text": "Life is 10% what happens to us and 90% how we react to it"
+    "text": "Life is 10% what happens to us and 90% how we react to it."
   },
   {
     "id": "6c17a80b-8ed1-4c61-8c59-4a0427df598d",
     "author": "Sarah Louise Delany",
     "datetime": "",
     "gender": "f",
-    "reference": "",
+    "reference": "https://en.wikipedia.org/wiki/Sarah_Louise_Delany",
     "tags": "Life",
-    "text": "Life is short, and it is up to you to make it sweet"
+    "text": "Life is short, and it is up to you to make it sweet."
   },
   {
     "id": "6dcd678c-7e4d-4b6d-9dfc-94f33d0c102e",
     "author": "Sholom Aleichem",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://en.wikipedia.org/wiki/Sholem_Aleichem",
     "tags": "Life",
-    "text": "Life is a dream for the wise, a game for the fool, a comedy for the rich, a tragedy for the poor"
+    "text": "Life is a dream for the wise, a game for the fool, a comedy for the rich, a tragedy for the poor."
   },
   {
     "id": "b6c3b4ff-5aeb-4eb9-99eb-05e9373670c1",
     "author": "Oliver Goldsmith",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://en.wikipedia.org/wiki/Oliver_Goldsmith",
     "tags": "Life",
-    "text": "Life is a journey that must be traveled no matter how bad the roads and accommodations"
-  },
-  {
-    "id": "cf0ee936-5e92-4f1a-8b71-3d9db5df3b99",
-    "author": "Victor Hugo",
-    "datetime": "",
-    "gender": "m",
-    "reference": "",
-    "tags": "Life",
-    "text": "Life is a flower of which love is the honey"
+    "text": "Life is a journey that must be traveled no matter how bad the roads and accommodations."
   },
   {
     "id": "3c4fc43c-7b1b-4bb1-af1c-108d9186a80c",
     "author": "Albert Einstein",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://en.wikipedia.org/wiki/Albert_Einstein",
     "tags": "Life",
-    "text": "Life is like riding a bicycle. To keep your balance, you must keep moving"
+    "text": "Life is like riding a bicycle. To keep your balance, you must keep moving."
   },
   {
     "id": "69586e03-950c-4b47-b7b0-7556f55ac33f",
     "author": "Tony Robbins",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://twitter.com/TonyRobbins",
     "tags": "Life",
-    "text": "Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more"
+    "text": "Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more."
   },
   {
     "id": "9cb74b98-18d0-4f8a-8b3d-42f5b96d0c85",
     "author": "Oscar Wilde",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://en.wikipedia.org/wiki/Oscar_Wilde",
     "tags": "Life",
-    "text": "Life is too important to be taken seriously"
+    "text": "Life is too important to be taken seriously."
   },
   {
     "id": "f9c0d7c3-e936-4c66-8be3-97043734f6a5",
     "author": "Grandma Moses",
     "datetime": "",
     "gender": "f",
-    "reference": "",
+    "reference": "https://en.wikipedia.org/wiki/Grandma_Moses",
     "tags": "Life",
-    "text": "Life is what we make it, always has been, always will be"
+    "text": "Life is what we make it, always has been, always will be."
   },
   {
     "id": "dc6e38e9-4f84-4d31-8dfb-285f50e4b06e",
@@ -634,36 +616,36 @@
     "author": "Peter Drucker",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://en.wikipedia.org/wiki/Peter_Drucker",
     "tags": "Business",
-    "text": "The best way to predict the future is to create it"
+    "text": "The best way to predict the future is to create it."
   },
   {
     "id": "575d5f1c-ecbb-4f82-8c84-ee6dd430dbcb",
     "author": "Steve Jobs",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://en.wikipedia.org/wiki/Steve_Jobs",
     "tags": "Business",
-    "text": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work"
+    "text": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work."
   },
   {
     "id": "e0ad7cc1-4c42-4d1c-80aa-21a16691433b",
     "author": "Warren Buffett",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://twitter.com/WarrenBuffett",
     "tags": "Business",
-    "text": "In the business world, the rearview mirror is always clearer than the windshield"
+    "text": "In the business world, the rearview mirror is always clearer than the windshield."
   },
   {
     "id": "39a98cb5-0e6d-4aa2-bc69-43a9532d41ea",
     "author": "Bill Gates",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://twitter.com/BillGates",
     "tags": "Business",
-    "text": "Your most unhappy customers are your greatest source of learning"
+    "text": "Your most unhappy customers are your greatest source of learning."
   },
   {
     "id": "67d1bf0a-04e4-4f5d-9c47-4c1b16f85253",
@@ -672,7 +654,7 @@
     "gender": "m",
     "reference": "https://twitter.com/richardbranson",
     "tags": "Business",
-    "text": "The best businesses come from thinking about things in a different way and seeing where you can make a difference"
+    "text": "The best businesses come from thinking about things in a different way and seeing where you can make a difference."
   },
   {
     "id": "b18a6e38-890b-48d9-8852-e3eac01f1f38",
@@ -681,79 +663,79 @@
     "gender": "m",
     "reference": "https://twitter.com/JeffBezos",
     "tags": "Business",
-    "text": "Your brand is what other people say about you when you're not in the room"
+    "text": "Your brand is what other people say about you when you're not in the room."
   },
   {
     "id": "b6280b4c-96a0-45ed-9529-6eb17931812b",
     "author": "Chris Grosser",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://www.linkedin.com/in/chrisgrosser",
     "tags": "Business",
-    "text": "Opportunities don't happen. You create them"
+    "text": "Opportunities don't happen. You create them."
   },
   {
     "id": "a3fcbbf7-b648-4f47-9bd5-0fcdd2cc1f0e",
     "author": "John D. Rockefeller",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://en.wikipedia.org/wiki/John_D._Rockefeller",
     "tags": "Business",
-    "text": "Don't be afraid to give up the good to go for the great"
+    "text": "Don't be afraid to give up the good to go for the great."
   },
   {
     "id": "b13c7b8d-316b-4d53-822d-31c5ad4cfb1a",
     "author": "Walt Disney",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://en.wikipedia.org/wiki/Walt_Disney",
     "tags": "Business",
-    "text": "The best way to get started is to quit talking and begin doing"
+    "text": "The best way to get started is to quit talking and begin doing."
   },
   {
     "id": "63cc1ff2-1ed7-44d2-91f8-d83320019cc1",
     "author": "Theodore Roosevelt",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://en.wikipedia.org/wiki/Theodore_Roosevelt",
     "tags": "Business",
-    "text": "The most important single ingredient in the formula of success is knowing how to get along with people"
+    "text": "The most important single ingredient in the formula of success is knowing how to get along with people."
   },
   {
     "id": "94f28c35-618e-4654-a0a7-c36a81a9c8ff",
     "author": "Jordan Belfort",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://en.wikipedia.org/wiki/Jordan_Belfort",
     "tags": "Business",
-    "text": "The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it"
+    "text": "The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it."
   },
   {
     "id": "69d1ca3f-08c7-454a-8c6c-b7cfc8c81670",
     "author": "Steve Jobs",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://en.wikipedia.org/wiki/Steve_Jobs",
     "tags": "Business",
-    "text": "Your time is limited, don't waste it living someone else's life"
+    "text": "Your time is limited, don't waste it living someone else's life."
   },
   {
     "id": "eab48b3a-90b7-4966-aeaa-e02ab9d6efed",
     "author": "Thomas Jefferson",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://en.wikipedia.org/wiki/Thomas_Jefferson",
     "tags": "Business",
-    "text": "I find that the harder I work, the more luck I seem to have"
+    "text": "I find that the harder I work, the more luck I seem to have."
   },
   {
     "id": "f2f06c6d-564f-4e3e-a7aa-9dd97268f8e6",
     "author": "Warren Buffett",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://twitter.com/WarrenBuffett",
     "tags": "Business",
-    "text": "The best investment you can make is in yourself"
+    "text": "The best investment you can make is in yourself."
   },
   {
     "id": "f3f16c8e-d87b-46d2-9c3b-cbf9e296ca71",
@@ -762,25 +744,25 @@
     "gender": "m",
     "reference": "https://twitter.com/richardbranson",
     "tags": "Business",
-    "text": "Do not be embarrassed by your failures, learn from them and start again"
+    "text": "Do not be embarrassed by your failures, learn from them and start again."
   },
   {
     "id": "2c4e4c31-95ed-4a80-bd4d-1cd1c65a7dd3",
     "author": "Bill Gates",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://twitter.com/BillGates",
     "tags": "Business",
-    "text": "It's fine to celebrate success, but it is more important to heed the lessons of failure"
+    "text": "It's fine to celebrate success, but it is more important to heed the lessons of failure."
   },
   {
     "id": "e1894c6d-90e7-4d2e-8b9c-75ef0668bc0d",
     "author": "Les Brown",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://twitter.com/RealLesBrown",
     "tags": "Business",
-    "text": "The only limits to the possibilities in your life tomorrow are the buts you use today"
+    "text": "The only limits to the possibilities in your life tomorrow are the buts you use today."
   },
   {
     "id": "d7117416-b402-4f6a-8ede-3c36e1a96772",
@@ -789,34 +771,34 @@
     "gender": "m",
     "reference": "https://twitter.com/WealthInc247/status/1724069361969672316",
     "tags": "Self-improvement",
-    "text": "Psychology says, the way you speak to yourself matters the most"
+    "text": "Psychology says, the way you speak to yourself matters the most."
   },
   {
     "id": "6dc6250b-268b-46b1-a50d-af52b39f629c",
     "author": "Albert Einstein",
     "datetime": "",
     "gender": "m",
-    "reference": "https://twitter.com/BusinessnMind/status/1723378677788909951",
+    "reference": "https://en.wikipedia.org/wiki/Albert_Einstein",
     "tags": "Self-improvement,Life",
-    "text": "If you want to live a happy life, tie it to a goal, not to people or things"
+    "text": "If you want to live a happy life, tie it to a goal, not to people or things."
   },
   {
     "id": "64c0acb2-ab1e-4fef-a52b-c38fa8efcbba",
     "author": "F. Matthias Alexander",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://en.wikipedia.org/wiki/F._Matthias_Alexander",
     "tags": "Self-improvement",
-    "text": "People do not decide their futures, they decide their habits and their habits decide their futures"
+    "text": "People do not decide their futures, they decide their habits and their habits decide their futures."
   },
   {
     "id": "8ad2b888-99ed-4768-8ea4-01b91d7c8ae9",
     "author": "Mark Twain",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://en.wikipedia.org/wiki/Mark_Twain",
     "tags": "Self-improvement",
-    "text": "Continuous improvement is better than delayed perfection"
+    "text": "Continuous improvement is better than delayed perfection."
   },
   {
     "id": "7b84c9f7-147a-4d0a-ae8f-7d333de830f7",
@@ -832,90 +814,90 @@
     "author": "Mark Twain",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://en.wikipedia.org/wiki/Mark_Twain",
     "tags": "Life,Wisdom",
-    "text": "The two most important days in your life are the day you are born and the day you find out why"
+    "text": "The two most important days in your life are the day you are born and the day you find out why."
   },
   {
     "id": "d2777c6f-b141-4483-8949-4cf7073aff8b",
     "author": "Mark Twain",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://en.wikipedia.org/wiki/Mark_Twain",
     "tags": "Success,Wisdom",
-    "text": "The secret of getting ahead is getting started"
+    "text": "The secret of getting ahead is getting started."
   },
   {
     "id": "df75b316-7395-4965-a3a1-111fc53062ca",
     "author": "Mark Twain",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://en.wikipedia.org/wiki/Mark_Twain",
     "tags": "Wisdom",
-    "text": "Wrinkles should merely indicate where smiles have been"
+    "text": "Wrinkles should merely indicate where smiles have been."
   },
   {
     "id": "083efd76-b61e-4154-b8ae-6e37e8a350f6",
     "author": "Albert Einstein",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://en.wikipedia.org/wiki/Albert_Einstein",
     "tags": "Creativity",
-    "text": "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution"
+    "text": "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution."
   },
   {
     "id": "cf2065b1-e5e7-41e7-b68f-2be1299d4e10",
     "author": "Albert Einstein",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://en.wikipedia.org/wiki/Albert_Einstein",
     "tags": "Success",
-    "text": "Try not to become a man of success, but rather try to become a man of value"
+    "text": "Try not to become a man of success, but rather try to become a man of value."
   },
   {
     "id": "1e7da491-3607-482a-b252-fe8356f4b070",
     "author": "Albert Einstein",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://en.wikipedia.org/wiki/Albert_Einstein",
     "tags": "Success",
-    "text": "In the middle of difficulty lies opportunity"
+    "text": "In the middle of difficulty lies opportunity."
   },
   {
     "id": "e22c04ce-60c0-49b0-b21a-6306bb14c01f",
     "author": "Albert Einstein",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://en.wikipedia.org/wiki/Albert_Einstein",
     "tags": "Wisdom",
-    "text": "The difference between genius and stupidity is that genius has its limits"
+    "text": "The difference between genius and stupidity is that genius has its limits."
   },
   {
     "id": "202a6519-7b95-41c3-a577-dc1dba84e1f5",
     "author": "Albert Einstein",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://en.wikipedia.org/wiki/Albert_Einstein",
     "tags": "Creativity",
-    "text": "Logic will get you from A to B. Imagination will take you everywhere"
+    "text": "Logic will get you from A to B. Imagination will take you everywhere."
   },
   {
     "id": "5e6f91f1-005d-43c6-9353-4275967f1f95",
     "author": "Mark W. Johnson",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://twitter.com/Mark_W_Johnson",
     "tags": "Business",
-    "text": "Compete on value, not price"
+    "text": "Compete on value, not price."
   },
   {
     "id": "f57a0aa2-659c-4126-abb5-1adc4b7b692d",
-    "author": "",
+    "author": "Joe Sugarman",
     "datetime": "",
     "gender": "m",
-    "reference": "",
+    "reference": "https://twitter.com/JoeSugarman",
     "tags": "Business",
-    "text": "People buy with emotion, then justify with logic"
+    "text": "People buy with emotion, then justify with logic."
   },
   {
     "id": "afa14e7d-8a5d-4f6a-bb33-0b062f32c9f0",
@@ -924,7 +906,7 @@
     "gender": "m",
     "reference": "https://twitter.com/DaveRamsey",
     "tags": "Money",
-    "text": "You must gain control over your money or the lack of it will forever control you"
+    "text": "You must gain control over your money or the lack of it will forever control you."
   },
   {
     "id": "56f0c739-13d4-42ab-a97a-dc3db07bf862",
@@ -933,7 +915,7 @@
     "gender": "m",
     "reference": "https://twitter.com/DaveRamsey",
     "tags": "Money",
-    "text": "Those who don’t manage their money will always work for those who do"
+    "text": "Those who don’t manage their money will always work for those who do."
   },
   {
     "id": "96b6e7e2-0b34-4d05-8e5b-33a2c1c2d980",
@@ -942,7 +924,7 @@
     "gender": "m",
     "reference": "https://twitter.com/DaveRamsey",
     "tags": "Self-improvement",
-    "text": "Change is painful. Few people have the courage to seek out change. Most people won’t change until the pain of where they are exceeds the pain of change"
+    "text": "Change is painful. Few people have the courage to seek out change. Most people won’t change until the pain of where they are exceeds the pain of change."
   },
   {
     "id": "c8a4f057-5d7e-4a88-a4cf-83f00e0b1f16",
@@ -951,7 +933,7 @@
     "gender": "m",
     "reference": "https://twitter.com/DaveRamsey",
     "tags": "Self-improvement",
-    "text": "Pray like it all depends on God, but work like it all depends on you"
+    "text": "Pray like it all depends on God, but work like it all depends on you."
   },
   {
     "id": "a2c33ec7-9c5c-4fc6-9d0b-7e540a5ee11a",
@@ -960,7 +942,7 @@
     "gender": "m",
     "reference": "https://twitter.com/ThisIsSethsBlog",
     "tags": "Self-improvement",
-    "text": "Instead of wondering when your next vacation is, maybe you should set up a life you don't need to escape from"
+    "text": "Instead of wondering when your next vacation is, maybe you should set up a life you don't need to escape from."
   },
   {
     "id": "5b48718d-67fd-4db4-aa4e-4e92f6bb0a9b",
@@ -969,7 +951,7 @@
     "gender": "m",
     "reference": "https://twitter.com/ThisIsSethsBlog",
     "tags": "Self-improvement",
-    "text": "Anxiety is experiencing failure in advance"
+    "text": "Anxiety is experiencing failure in advance."
   },
   {
     "id": "9d6d75a9-6cfe-4cc6-8d44-82932eb1c8ec",
@@ -978,16 +960,16 @@
     "gender": "m",
     "reference": "https://twitter.com/jordanbpeterson",
     "tags": "Self-improvement",
-    "text": "Act like the person you want to become"
+    "text": "Act like the person you want to become."
   },
   {
     "id": "d1f2b032-cb42-4f3c-a996-4b2f9bc33587",
-    "author": "",
-    "datetime": "",
+    "author": "https://twitter.com/DrWayneWDyer",
+    "datetime": "Dr Wayne W Dyer",
     "gender": "m",
-    "reference": "",
+    "reference": "https://twitter.com/DrWayneWDyer",
     "tags": "Self-improvement",
-    "text": "If you need something to believe in, start with yourself"
+    "text": "If you need something to believe in, start with yourself."
   },
   {
     "id": "f9e61d4d-715b-4e5e-9e3b-51c03d3a8947",
@@ -996,6 +978,6 @@
     "gender": "m",
     "reference": "",
     "tags": "Self-improvement,Life",
-    "text": "Life is so short. There's no reason not to go after your dreams"
+    "text": "Life is so short. There's no reason not to go after your dreams."
   }
 ]
