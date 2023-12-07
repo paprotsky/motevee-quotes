@@ -100,7 +100,7 @@
     "text": "Success is not final, failure is not fatal: It is the courage to continue that counts."
   },
   {
-    "id": "335fd234-6f2a-4be2-b0e9-1240b522954b",
+    "id": "335fd234-6f2a-4be2-b0e9-1240b522954c",
     "author": "Bo Bennett",
     "datetime": "",
     "gender": "m",
@@ -140,6 +140,16 @@
     "text": "Success is not about the destination, it's about the journey."
   },
   {
+    "id": "7f3eaf12-8b7a-4962-86eb-2c6f58150e6a",
+    "author": "Ralph Waldo Emerson",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson",
+    "skinTone": "#edb98a",
+    "tags": "Success",
+    "text": "Nothing great was ever achieved without enthusiasm."
+  },
+  {
     "id": "aa85cd8e-e7b0-4521-9af9-3c8af2e4e0e9",
     "author": "Winston Churchill",
     "datetime": "",
@@ -160,7 +170,7 @@
     "text": "The road to success and the road to failure are almost exactly the same."
   },
   {
-    "id": "24592a8d-28a6-4816-b7a6-83c5e7e8e2c6",
+    "id": "24592a8d-28a6-4816-b7a6-83c5e7e8e2c7",
     "author": "",
     "datetime": "",
     "gender": "m",
@@ -180,7 +190,7 @@
     "text": "Success is liking yourself, liking what you do, and liking how you do it."
   },
   {
-    "id": "1d9e40b5-513f-4e72-8b2b-715843db8562",
+    "id": "1d9e40b5-513f-4e72-8b2b-715843db8561",
     "author": "Richard Branson",
     "datetime": "",
     "gender": "m",
@@ -188,6 +198,16 @@
     "skinTone": "#edb98a",
     "tags": "Entrepreneurship,Success,Leadership",
     "text": "Business opportunities are like buses, there's always another one coming."
+  },
+  {
+    "id": "1d9e40b5-513f-4e72-8b2b-715843db8563",
+    "author": "Richard Branson",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/richardbranson",
+    "skinTone": "#edb98a",
+    "tags": "Entrepreneurship,Success,Leadership",
+    "text": "If your dreams don't scare you, they are too small."
   },
   {
     "id": "335fd234-6f2a-4be2-b0e9-1240b522954b",
@@ -210,7 +230,7 @@
     "text": "It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."
   },
   {
-    "id": "8fb52bb5-74ed-4e10-a2da-0fb7f3f4c6e8",
+    "id": "8fb52bb5-74ed-4e10-a2da-0fb7f3f4c6e9",
     "author": "Oprah Winfrey",
     "datetime": "",
     "gender": "f",
@@ -910,7 +930,7 @@
     "text": "The two most important days in your life are the day you are born and the day you find out why."
   },
   {
-    "id": "d2777c6f-b141-4483-8949-4cf7073aff8b",
+    "id": "d2777c6f-b141-4483-8949-4cf7073aff8c",
     "author": "Mark Twain",
     "datetime": "",
     "gender": "m",
@@ -1040,6 +1060,16 @@
     "text": "Pray like it all depends on God, but work like it all depends on you."
   },
   {
+    "id": "d3e476f0-2a67-42b2-b9fe-d267a20e167c",
+    "author": "Dave Ramsey",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/DaveRamsey",
+    "skinTone": "#edb98a",
+    "tags": "Self-improvement",
+    "text": "Change is never easy, but the best time to start is always today."
+  },
+  {
     "id": "a2c33ec7-9c5c-4fc6-9d0b-7e540a5ee11a",
     "author": "Seth Godin",
     "datetime": "",
@@ -1061,11 +1091,11 @@
   },
   {
     "id": "9d6d75a9-6cfe-4cc6-8d44-82932eb1c8ec",
-    "author": "Jordan B. Peterson",
+    "author": "Mahatma Gandhi",
     "datetime": "",
     "gender": "m",
-    "reference": "https://twitter.com/jordanbpeterson",
-    "skinTone": "#edb98a",
+    "reference": "https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+    "skinTone": "#d08b5b",
     "tags": "Self-improvement",
     "text": "Act like the person you want to become."
   },
@@ -1088,5 +1118,385 @@
     "skinTone": "#edb98a",
     "tags": "Self-improvement,Life",
     "text": "Life is so short. There's no reason not to go after your dreams."
+  },
+  {
+    "id": "8f5e73c1-4f53-45e9-9232-aa7f345a5292",
+    "author": "Growth Labs",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/growthhub_",
+    "skinTone": "#edb98a",
+    "tags": "Self-improvement,Life",
+    "text": "Comparing yourself with your older version and trying to improve daily will definitely make you grow."
+  },
+  {
+    "id": "6a2d47a7-9769-4e4b-9e61-fbf1b0b981d8",
+    "author": "Kim Kiyosaki",
+    "datetime": "",
+    "gender": "f",
+    "reference": "https://twitter.com/kimkiyosaki/status/1731402171948695839",
+    "skinTone": "#edb98a",
+    "tags": "Self-improvement,Money",
+    "text": "Its your drive and passion for financial freedom that will get you through the rough patches, the doubts, and the setbacks."
+  },
+  {
+    "id": "b8c897a5-4b99-4c2b-a183-7926eae17824",
+    "author": "Kim Kiyosaki",
+    "datetime": "",
+    "gender": "f",
+    "reference": "https://twitter.com/kimkiyosaki/status/1726389910767112304",
+    "skinTone": "#edb98a",
+    "tags": "Self-improvement,Money",
+    "text": "You have to be comfortable with being uncomfortable."
+  },
+  {
+    "id": "f2a9a22a-d875-46a1-88fc-926a9d3c3eb5",
+    "author": "Mindset Machine",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/Mindset_Machine/status/1730873700109430940",
+    "skinTone": "#edb98a",
+    "tags": "Self-improvement,Motivation",
+    "text": "You only control the effort, not the results."
+  },
+  {
+    "id": "a5eef287-aa76-4c0d-84ab-836e9b76d92b",
+    "author": "Growth Labs",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/growthhub_",
+    "skinTone": "#edb98a",
+    "tags": "Self-improvement,Motivation",
+    "text": "The more disciplined you’re with your time, the more opportunities you’ll create for yourself."
+  },
+  {
+    "id": "3d4a320f-c8c9-4d77-ae5a-1b0a16e90ac3",
+    "author": "",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "skinTone": "#edb98a",
+    "tags": "Self-improvement,Motivation",
+    "text": "Your attitude determines your direction"
+  },
+  {
+    "id": "0eef4f9a-66cd-4b18-b96a-ae0c4405e7f4",
+    "author": "",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "skinTone": "#edb98a",
+    "tags": "Self-improvement,Motivation",
+    "text": "You will never speak to anyone more than you speak to yourself in your head, be kind to yourself."
+  },
+  {
+    "id": "9f6b02c8-1f90-49a3-86a5-9293c042092e",
+    "author": "",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "skinTone": "#edb98a",
+    "tags": "Self-improvement,Motivation",
+    "text": "'One Day' or 'Day One' - You decide"
+  },
+  {
+    "id": "d1d2a5c6-d47e-4e3e-ba56-01996a9025cc",
+    "author": "",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "skinTone": "#edb98a",
+    "tags": "Self-improvement,Motivation",
+    "text": "Not everything is worth fixing. Move on."
+  },
+  {
+    "id": "c11db4a7-3ac8-46e5-b9a7-9d4c52a222d8",
+    "author": "Marcus Aurelius",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Marcus_Aurelius",
+    "skinTone": "#edb98a",
+    "tags": "Self-improvement,Motivation",
+    "text": "Think of yourself as dead. You have lived your life. Now take what's left and live it properly."
+  },
+  {
+    "id": "7f9c120d-5f65-4659-a6fe-4ff5e916a70e",
+    "author": "Marcus Aurelius",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Marcus_Aurelius",
+    "skinTone": "#edb98a",
+    "tags": "Self-improvement,Motivation",
+    "text": "Think of yourself as dead. You have lived your life. Now take what's left and live it properly."
+  },
+  {
+    "id": "89e88e3d-b0f5-4b01-9d14-e7e44c3b52b1",
+    "author": "",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "skinTone": "#edb98a",
+    "tags": "Self-improvement,Motivation",
+    "text": "Making yourself happy again is the biggest comeback."
+  },
+  {
+    "id": "f5465968-1a35-4a4c-845d-1df4ef13446f",
+    "author": "Alexander Hamilton",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Alexander_Hamilton",
+    "skinTone": "#edb98a",
+    "tags": "Self-improvement,Motivation",
+    "text": "Those who stand for nothing fall for anything."
+  },
+  {
+    "id": "2a172ea1-29ae-42f7-97b8-e28c1dddb3d7",
+    "author": "Alexander Hamilton",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Alexander_Hamilton",
+    "skinTone": "#edb98a",
+    "tags": "Self-improvement,Motivation",
+    "text": "Those who stand for nothing fall for anything."
+  },
+  {
+    "id": "e0e3071e-8482-4b33-ae50-1f2ecffaa11e",
+    "author": "Oscar Wilde",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Oscar_Wilde",
+    "skinTone": "#edb98a",
+    "tags": "Life",
+    "text": "Teach self-denial and make its practice pleasure, and you can create for the world a destiny more sublime that ever issued from the brain of the wildest dreamer."
+  },
+  {
+    "id": "4cf16a38-2cd5-4b13-8a6a-3d7d6fcf34e4",
+    "author": "C. Malesherbes",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Guillaume-Chr%C3%A9tien_de_Lamoignon_de_Malesherbes",
+    "skinTone": "#edb98a",
+    "tags": "Life",
+    "text": "We would accomplish many more things if we did not think of them as impossible."
+  },
+  {
+    "id": "7d570a17-33a3-42e3-819b-dc13a3159643",
+    "author": "C.F. Norton",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Guillaume-Chr%C3%A9tien_de_Lamoignon_de_Malesherbes",
+    "skinTone": "#edb98a",
+    "tags": "Life",
+    "text": "Nothing is ever gained by winning an argument and losing a customer."
+  },
+  {
+    "id": "64518bc3-37f5-42fb-8db0-4fcf3b6b7d0c",
+    "author": "Merle Shain",
+    "datetime": "",
+    "gender": "f",
+    "reference": "https://en.wikipedia.org/wiki/Merle_Shain",
+    "skinTone": "#edb98a",
+    "tags": "Love",
+    "text": "Loving can cost a lot, but not loving always costs more, and those who fear to love often find that want of love is an emptiness that robs the joy from life."
+  },
+  {
+    "id": "a3ad9db3-6185-4a42-9652-b0a9a6e5768a",
+    "author": "Merle Shain",
+    "datetime": "",
+    "gender": "f",
+    "reference": "https://en.wikipedia.org/wiki/Merle_Shain",
+    "skinTone": "#edb98a",
+    "tags": "Love",
+    "text": "Loving someone means helping them to be more themselves, which can be different from being what you’d like them to be, although often they turn out the same."
+  },
+  {
+    "id": "09ce891f-ff7b-4d09-bb0f-2c50a4ed3712",
+    "author": "Danny Miranda",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/heydannymiranda/status/1728636465079365709",
+    "skinTone": "#edb98a",
+    "tags": "Motivation",
+    "text": "Watch out for people who are pretty good at something they enjoy doing. They’re going to become great."
+  },
+  {
+    "id": "8a2e9b52-0dfc-4d22-8351-6ab357af432c",
+    "author": "Dr Jordan B Peterson",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/jordanbpeterson/status/1728102680369955026",
+    "skinTone": "#edb98a",
+    "tags": "Motivation",
+    "text": "If you fulfill your obligations every day you don’t need to worry about the future."
+  },
+  {
+    "id": "f44db75d-9c3b-49e0-aae4-87d532571a20",
+    "author": "Dr Jordan B Peterson",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/jordanbpeterson/status/1725586808061468739",
+    "skinTone": "#edb98a",
+    "tags": "Motivation",
+    "text": "Compare yourself to who you were yesterday, not to who someone else is today."
+  },
+  {
+    "id": "6f40e345-9a11-4c34-8197-201ef3c421eb",
+    "author": "Robin Sharma",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/RobinSharma",
+    "skinTone": "#edb98a",
+    "tags": "Motivation",
+    "text": "Discipline is the highest form of self-love."
+  },
+  {
+    "id": "cfe1577b-874c-43d5-a678-ef32b768e75f",
+    "author": "Manliness Norms",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/ManlinessNorms/status/1727011161508552859",
+    "skinTone": "#edb98a",
+    "tags": "Motivation,Life",
+    "text": "A hungry stomach, an empty wallet, and a broken heart can teach you the best lessons in life."
+  },
+  {
+    "id": "8d24a6a1-67c8-4e3a-aaae-5415e7b17e5d",
+    "author": "Sophia Amoruso",
+    "datetime": "",
+    "gender": "f",
+    "reference": "https://twitter.com/sophiaamoruso",
+    "skinTone": "#edb98a",
+    "tags": "Motivation,Life",
+    "text": "High standards prevent you from having low-quality experiences."
+  },
+  {
+    "id": "e7c810f4-065a-4f7f-b3e6-8a43c1969125",
+    "author": "David Ogilvy",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/David_Ogilvy_(businessman)",
+    "skinTone": "#edb98a",
+    "tags": "Motivation,Life",
+    "text": "The best ideas come as jokes. Make your thinking as funny as possible."
+  },
+  {
+    "id": "a231e3af-1372-4bea-b932-fb9a14a2f1a2",
+    "author": "David Ogilvy",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/David_Ogilvy_(businessman)",
+    "skinTone": "#edb98a",
+    "tags": "Motivation,Life",
+    "text": "Advertising is only evil when it advertises evil things."
+  },
+  {
+    "id": "9bbfdfe8-9d7c-4e3d-89c1-c1c07c2337ad",
+    "author": "David Ogilvy",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/David_Ogilvy_(businessman)",
+    "skinTone": "#edb98a",
+    "tags": "Motivation,Life",
+    "text": "Big ideas come from the unconscious. This is true in art, in science, and in advertising. But your unconscious has to be well-informed, or your idea will be irrelevant."
+  },
+  {
+    "id": "c2eb9e01-7755-4b01-af01-ba0ddcb4a589",
+    "author": "David Ogilvy",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/David_Ogilvy_(businessman)",
+    "skinTone": "#edb98a",
+    "tags": "Motivation,Life",
+    "text": "Tell the truth, but make the truth fascinating."
+  },
+  {
+    "id": "d63ddc7c-487a-492a-8d86-6e799f94e48b",
+    "author": "Charles Bukowski",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Charles_Bukowski",
+    "skinTone": "#edb98a",
+    "tags": "Life",
+    "text": "And when nobody wakes you up in the morning, and when nobody waits for you at night, and when you can do whatever you want. what do you call it, freedom or loneliness?"
+  },
+  {
+    "id": "9d8f5793-6d8a-482d-bd4a-398d7a227ec6",
+    "author": "",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "skinTone": "#edb98a",
+    "tags": "Life",
+    "text": "Don't fear failure. Fear being in the same place next year as you are today."
+  },
+  {
+    "id": "f4b380a7-1a8b-4e7b-a0c6-693b19e3e8f5",
+    "author": "Dan Koe",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/thedankoe",
+    "skinTone": "#edb98a",
+    "tags": "Life",
+    "text": "If you aren't tired when you go to bed and excited when you wake up, you need intensity and goals."
+  },
+  {
+    "id": "6db2c07f-fd9b-4c69-bb9a-e5d1a2e789ac",
+    "author": "Dan Koe",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/thedankoe",
+    "skinTone": "#edb98a",
+    "tags": "Life",
+    "text": "One pattern I’ve noticed in happy people: They’re obsessive about maintaining their mental clarity."
+  },
+  {
+    "id": "b6b1c256-731f-4703-8db2-0c3e1fc13b90",
+    "author": "Anne Frank",
+    "datetime": "",
+    "gender": "f",
+    "reference": "https://en.wikipedia.org/wiki/Anne_Frank",
+    "skinTone": "#edb98a",
+    "tags": "Life",
+    "text": "No one has ever become poor by giving"
+  },
+  {
+    "id": "80e540cb-4d50-4c5d-9754-ae9e2c2b6ee8",
+    "author": "",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "skinTone": "#edb98a",
+    "tags": "Life",
+    "text": "Just because you're struggling doesn't mean you're failing."
+  },
+  {
+    "id": "3a6e2e87-3cf9-49a0-bb55-7febf508e3c9",
+    "author": "",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "skinTone": "#edb98a",
+    "tags": "Life",
+    "text": "Stop shrinking yourself to fit into places you've already outgrown"
+  },
+  {
+    "id": "54260961-b456-4a7e-8d09-8d899ff63793",
+    "author": "Athena Singh",
+    "datetime": "",
+    "gender": "f",
+    "reference": "",
+    "skinTone": "#d08b5b",
+    "tags": "Life",
+    "text": "Never trust your fears, they don't know your strength"
+  },
+  {
+    "id": "4c8d047f-e69b-45e4-86a7-9d82d65e9e12",
+    "author": "Lao Tzu",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Laozi",
+    "skinTone": "#d08b5b",
+    "tags": "Life",
+    "text": "Care about what other people think, and you will always be their prisoner."
   }
 ]
