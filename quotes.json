@@ -1498,5 +1498,405 @@
     "skinTone": "#d08b5b",
     "tags": "Life",
     "text": "Care about what other people think, and you will always be their prisoner."
+  },
+  {
+    "id": "2987f6c3-a51a-4ace-8b8c-6ae2a1e7baed",
+    "author": "George Orwell, 1984",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Laozi",
+    "skinTone": "#edb98a",
+    "tags": "Love",
+    "text": "They fear love because it creates a world they can't control."
+  },
+  {
+    "id": "b557eb65-24fb-485f-953e-f771784dc88d",
+    "author": "",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "skinTone": "#edb98a",
+    "tags": "Change",
+    "text": "Becoming the best version of yourself comes with a lot of goodbyes."
+  },
+  {
+    "id": "39c07308-8ac5-4691-9ddd-2a53ed3d6a14",
+    "author": "",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "skinTone": "#edb98a",
+    "tags": "Change",
+    "text": "The only reason to wake up is to be the best."
+  },
+  {
+    "id": "03fc25f2-40db-46fc-ba15-2cc677d591f9",
+    "author": "Dakota Robertson",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/WrongsToWrite",
+    "skinTone": "#edb98a",
+    "tags": "Wisdom",
+    "text": "Smart people are okay with looking dumb while they figure things out."
+  },
+  {
+    "id": "ff0cf299-bd78-4f1a-87c5-489acd26bd1e",
+    "author": "Peter Drucker",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Peter_Drucker",
+    "skinTone": "#edb98a",
+    "tags": "Wisdom",
+    "text": "Make decisions that your 80-year-old self and 10-year-old self would be proud of."
+  },
+  {
+    "id": "e51e2bdb-a36b-4e1b-8f2a-d007c0babaf5",
+    "author": "Lao Tzu",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Laozi",
+    "skinTone": "#d08b5b",
+    "tags": "Life",
+    "text": "New beginnings are often disguised as painful endings."
+  },
+  {
+    "id": "bbc154b6-556d-4b37-8cea-012ad0e45ff7",
+    "author": "R.M.Drake",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/rmdrk",
+    "skinTone": "#d08b5b",
+    "tags": "Self-improvement",
+    "text": "The more you love yourself and give yourself what you need, the less you'll demand it from others."
+  },
+  {
+    "id": "6e323bab-76ce-406c-adc2-0f4a0e1b521b",
+    "author": "Daniel Kahneman",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Daniel_Kahneman",
+    "skinTone": "#d08b5b",
+    "tags": "Money,Happiness",
+    "text": "Money does not buy you happiness, but lack of money certainly buys you misery."
+  },
+  {
+    "id": "4ab0051f-7d9a-44a5-97c6-d5bb263e836e",
+    "author": "John C. Maxwell",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/TheJohnCMaxwell",
+    "skinTone": "#d08b5b",
+    "tags": "Self-improvement",
+    "text": "Improving yourself is the first step of improving everything else in your life."
+  },
+  {
+    "id": "75c26dea-4028-42e1-8b5d-5864e50d2001",
+    "author": "Dr Jordan B Peterson",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/jordanbpeterson",
+    "skinTone": "#edb98a",
+    "tags": "Motivation",
+    "text": "In order to be able to think, you have to risk being offensive."
+  },
+  {
+    "id": "3fc29fef-ba0e-417b-a1ee-bb33d6343a35",
+    "author": "Tyler Todt",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/tyromper",
+    "skinTone": "#edb98a",
+    "tags": "Motivation",
+    "text": "Losers LOSE & quit. <br />Winners LOSE & continue.<br />It’s simply a setback on your way to success.<br />Keep showing up.<br />Be relentless in the pursuit of your dreams!"
+  },
+  {
+    "id": "8e2eea0d-7623-4f8a-9091-be992b7d5e0a",
+    "author": "",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "skinTone": "#edb98a",
+    "tags": "Motivation",
+    "text": "If you wait until you're ready, you'll never get started."
+  },
+  {
+    "id": "1d63d1e9-1852-4518-a0e8-857ff05d855b",
+    "author": "",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "skinTone": "#edb98a",
+    "tags": "Motivation",
+    "text": "If you wait until you're ready, you'll never get started."
+  },
+  {
+    "id": "4b1f66c5-7c95-4c69-99e1-5050d95343a1",
+    "author": "T. Harv Eker",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/t_harv_eker",
+    "skinTone": "#edb98a",
+    "tags": "Money",
+    "text": "Having money with no desire to impress others is a superpower."
+  },
+  {
+    "id": "47e5e5ef-651a-49fc-85a7-82357a1ecb87",
+    "author": "Carl Jung",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Carl_Jung",
+    "skinTone": "#edb98a",
+    "tags": "Self-improvement",
+    "text": "I am not what happened to me, I am what I choose to become."
+  },
+  {
+    "id": "e2a6fbbe-afc2-4df4-9c10-87a0e94a78fe",
+    "author": "",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "skinTone": "#edb98a",
+    "tags": "Motivation,Self-improvement",
+    "text": "If you stumble, make it part of your dance."
+  },
+  {
+    "id": "01c506c8-0125-48d5-aefe-4c7b543f0912",
+    "author": "Brett Stephens",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Bret_Stephens",
+    "skinTone": "#edb98a",
+    "tags": "Friendship",
+    "text": "Surround yourself with people who fight for you in rooms that you’re not in."
+  },
+  {
+    "id": "f0f2a5d4-5bb9-43a7-a966-be44b18bcd9c",
+    "author": "Seneca the Younger",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Seneca_the_Younger",
+    "skinTone": "#edb98a",
+    "tags": "Friendship",
+    "text": "If a man knows not to which port he sails, no wind is favorable."
+  },
+  {
+    "id": "58344f23-1934-483c-a678-a22c7a4c7d9a",
+    "author": "Steve · Millionaire Habits",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/SteveOnSpeed",
+    "skinTone": "#edb98a",
+    "tags": "Money",
+    "text": "Uncomfortable fact nobody wants to admit: Your personality will get you 10x richer than your intelligence."
+  },
+  {
+    "id": "7a12e568-b77d-48a4-9a04-28464b0a6e15",
+    "author": "Lee Iacocca",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Lee_Iacocca",
+    "skinTone": "#edb98a",
+    "tags": "Money",
+    "text": "Even a correct decision is wrong when its too late."
+  },
+  {
+    "id": "923afc1a-b257-4d10-9cde-b5b1ca39e428",
+    "author": "Chase Jarvis",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/chasejarvis",
+    "skinTone": "#edb98a",
+    "tags": "Money",
+    "text": "Too many people idolize those who make money, not enough people respect those who create value."
+  },
+  {
+    "id": "81b518cd-dfa7-42fc-a04f-53efe105cce0",
+    "author": "Carl Jung",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Carl_Jung",
+    "skinTone": "#edb98a",
+    "tags": "Self-improvement",
+    "text": "Where your fear is, there is your task"
+  },
+  {
+    "id": "af4a8c9e-a8a6-4998-b24a-451e66a63d5f",
+    "author": "FS",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/farnamstreet",
+    "skinTone": "#edb98a",
+    "tags": "Self-improvement",
+    "text": "The most important story is the one you tell yourself. While telling yourself a positive story doesn't ensure a good outcome, telling yourself a negative story often guarantees a bad one."
+  },
+  {
+    "id": "640a1e4f-1a66-48d5-8a8c-baf2ce6ddf4d",
+    "author": "",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "skinTone": "#edb98a",
+    "tags": "Self-improvement",
+    "text": "Maturity is when you don't force people to choose you."
+  },
+  {
+    "id": "65d371b4-cf3c-4bca-8dde-761c0c37e02c",
+    "author": "Naval Ravikant",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/naval",
+    "skinTone": "#edb98a",
+    "tags": "Life",
+    "text": "A taste of freedom can make you unemployable."
+  },
+  {
+    "id": "6e3d74d6-6a51-4105-91a6-99ce8fa3a32d",
+    "author": "James Clear",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/JamesClear",
+    "skinTone": "#edb98a",
+    "tags": "Friendship",
+    "text": "When you choose your friends today, you are choosing your habits tomorrow."
+  },
+  {
+    "id": "f5808ad2-f3ab-451b-8746-a14658af1daf",
+    "author": "DAN KOE",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/thedankoe",
+    "skinTone": "#edb98a",
+    "tags": "Life",
+    "text": "Too much social media keeps you in a cycle of trying to solve problems you don't have."
+  },
+  {
+    "id": "f5353b8b-ab1b-4af4-90e8-76ce089a0784",
+    "author": "DAN KOE",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/thedankoe",
+    "skinTone": "#edb98a",
+    "tags": "Life",
+    "text": "Too much social media keeps you in a cycle of trying to solve problems you don't have."
+  },
+  {
+    "id": "529a734d-df0e-4601-be8d-069e8c374f5f",
+    "author": "Seneca",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Seneca_the_Younger",
+    "skinTone": "#edb98a",
+    "tags": "Wisdom",
+    "text": "No man is more unhappy than he who never faces adversity. For he is not permitted to prove himself."
+  },
+  {
+    "id": "8bc081d2-42b9-4d1f-b882-7c5f0907d889",
+    "author": "Bryant McGill",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/BryantMcGill",
+    "skinTone": "#edb98a",
+    "tags": "Self-improvement",
+    "text": "Your self-respect has to be stronger than your feelings."
+  },
+  {
+    "id": "c90b068a-1a23-4534-954a-4ade965a199e",
+    "author": "Mark Manson",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/IAmMarkManson",
+    "skinTone": "#edb98a",
+    "tags": "Wisdom",
+    "text": "Read books because you will never be able to meet and spend uninterrupted time with the thoughts of so many brilliant and unique people."
+  },
+  {
+    "id": "b59a14fb-afbc-4c3f-8ede-1a1c5895c003",
+    "author": "H. Jackson Brown Jr.",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/H._Jackson_Brown_Jr.",
+    "skinTone": "#edb98a",
+    "tags": "Wisdom",
+    "text": "Your character is who you are when nobody is looking."
+  },
+  {
+    "id": "c73fed17-6a8e-49ff-9020-9ab1fbbefd11",
+    "author": "Dau Voire",
+    "datetime": "",
+    "gender": "f",
+    "reference": "",
+    "skinTone": "#ae5d29",
+    "tags": "Wisdom",
+    "text": "Wear your passion. There’s too much to live for to feel hopeless. Good things come to those who never give up. Grow. Preserve. Evolve."
+  },
+  {
+    "id": "e9258e12-f614-42a4-94ae-9473b5d9d726",
+    "author": "Steve Maraboli",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/stevemaraboli",
+    "skinTone": "#edb98a",
+    "tags": "Change,Courage",
+    "text": "You don't fear change. You fear losing control."
+  },
+  {
+    "id": "ff860241-32fe-4798-8d73-d51aa371563f",
+    "author": "",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "skinTone": "#edb98a",
+    "tags": "Wisdom",
+    "text": "Don't pursue perfection. Pursue progress."
+  },
+  {
+    "id": "a0225095-bd82-4938-a0a8-f26926098247",
+    "author": "DAN KOE",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/thedankoe",
+    "skinTone": "#edb98a",
+    "tags": "Success",
+    "text": "No one cares about how valuable you think you are if you don't have results."
+  },
+  {
+    "id": "7bd947cc-c06b-4c15-9074-9dd4eb3b8a3f",
+    "author": "DAN KOE",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/thedankoe",
+    "skinTone": "#edb98a",
+    "tags": "Success",
+    "text": "No one cares about how valuable you think you are if you don't have results."
+  },
+  {
+    "id": "6e5ebf4e-d135-46dd-ad58-ef4595dfc2f8",
+    "author": "",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "skinTone": "#edb98a",
+    "tags": "Wisdom",
+    "text": "God is giving you clues every day. Are you paying attention?"
+  },
+  {
+    "id": "d10123ac-3381-42a7-803f-9cfcaac52700",
+    "author": "",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "skinTone": "#edb98a",
+    "tags": "Wisdom",
+    "text": "God is giving you clues every day. Are you paying attention?"
+  },
+  {
+    "id": "644d11d8-f1ee-4abe-a811-99f25410e2aa",
+    "author": "Dau Voire",
+    "datetime": "",
+    "gender": "f",
+    "reference": "",
+    "skinTone": "#ae5d29",
+    "tags": "Wisdom",
+    "text": "Confidence and intelligence will never stop being beautiful."
   }
 ]
