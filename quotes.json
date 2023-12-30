@@ -2318,5 +2318,105 @@
     "skinTone": "#edb98a",
     "tags": "Courage",
     "text": "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."
+  },
+  {
+    "id": "28d71c15-d53d-44ec-b047-b10a5b0b5684",
+    "author": "Dan Koe",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/thedankoe",
+    "skinTone": "#edb98a",
+    "tags": "Courage,Life",
+    "text": "Conformity is following others' footsteps, curiosity is creating your own."
+  },
+  {
+    "id": "c45420c1-64dd-4aac-a967-a3305483dd74",
+    "author": "Wealth Inc",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/WealthInc247",
+    "skinTone": "#edb98a",
+    "tags": "Money,Change,Self-improvement",
+    "text": "Your financial situation today is the result of your past decisions. Focus on making better choices now, and your future will thank you for it."
+  },
+  {
+    "id": "dfc44c06-e4ba-4235-8213-c66f471ef0c0",
+    "author": "Mark Manson",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/IAmMarkManson",
+    "skinTone": "#edb98a",
+    "tags": "Happiness",
+    "text": "No one is going to be happy being with you if you can’t be happy with yourself."
+  },
+  {
+    "id": "0a396b6f-f518-400d-849b-6b183426b690",
+    "author": "Steven Bartlett",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/StevenBartlett",
+    "skinTone": "#d08b5b",
+    "tags": "Change,Self-improvement",
+    "text": "The grass will always look greener on the other side until you start watering the side you’re on."
+  },
+  {
+    "id": "65027658-922d-40ec-b2c5-1f4633cb1721",
+    "author": "Lemon Squeezy",
+    "datetime": "",
+    "gender": "a",
+    "reference": "https://twitter.com/lmsqueezy",
+    "skinTone": "#edb98a",
+    "tags": "Business,Entrepreneurship,Success",
+    "text": "Sell your value, not your time."
+  },
+  {
+    "id": "18d24466-010c-46b9-8ec5-c0a26cd2c747",
+    "author": "Naval Ravikant",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/naval",
+    "skinTone": "#edb98a",
+    "tags": "Life,Wisdom,Business,Entrepreneurship",
+    "text": "If you cannot decide, the answer is no."
+  },
+  {
+    "id": "29735748-b466-4f59-b266-c2b026a82fbc",
+    "author": "James Clear",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/JamesClear",
+    "skinTone": "#edb98a",
+    "tags": "Life,Wisdom,Business,Entrepreneurship",
+    "text": "The amateur does not know what to do. <br> The master knows what not to do."
+  },
+  {
+    "id": "c5e9a1aa-935d-47e5-b1b9-1ef9d6cf16f2",
+    "author": "Wealth Inc",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/WealthInc247",
+    "skinTone": "#edb98a",
+    "tags": "Life,Wisdom,Business,Entrepreneurship",
+    "text": "Consistent progress beats occasional perfection."
+  },
+  {
+    "id": "df079d17-7f46-487e-8fbb-de78a292ac6a",
+    "author": "Wealth Inc",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/WealthInc247",
+    "skinTone": "#edb98a",
+    "tags": "Life,Wisdom,Business,Entrepreneurship",
+    "text": "The moment your gut says no, it’s a no. <br> You can analyze the details later."
+  },
+  {
+    "id": "ab93a994-934b-4b8f-9cf2-b1eeb7bca554",
+    "author": "Tony Valor",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/tonyvalormusic",
+    "skinTone": "#edb98a",
+    "tags": "Life,Wisdom",
+    "text": "Just be real, it saves everyone's time."
   }
 ]
