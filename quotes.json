@@ -1898,5 +1898,425 @@
     "skinTone": "#ae5d29",
     "tags": "Wisdom",
     "text": "Confidence and intelligence will never stop being beautiful."
+  },
+  {
+    "id": "159305c8-7435-4971-b3e6-f858323fe02d",
+    "author": "Adam Smith",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "skinTone": "#edb98a",
+    "tags": "Happiness",
+    "text": "What can be added to the happiness of a man who is in health, out of debt, and has a clear conscience?"
+  },
+  {
+    "id": "d71d0277-0762-4d44-b128-bbeaf9b75fe0",
+    "author": "Adlai Stevenson",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Adlai_Stevenson_II",
+    "skinTone": "#edb98a",
+    "tags": "Wisdom",
+    "text": "It is often easier to fight for a principle than to live up to it."
+  },
+  {
+    "id": "dc64796a-c537-4501-b279-71fb7fe70364",
+    "author": "Albert Einstein",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Albert_Einstein",
+    "skinTone": "#edb98a",
+    "tags": "Wisdom",
+    "text": "Bureaucracy is the death of any achievement."
+  },
+  {
+    "id": "cc1ce05e-8b0a-4646-af00-7addb978f070",
+    "author": "Albert Einstein",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Albert_Einstein",
+    "skinTone": "#edb98a",
+    "tags": "Wisdom",
+    "text": "Education is that which remains when one has forgotten everything he learned in school."
+  },
+  {
+    "id": "dd18639a-601b-4f14-a77c-5f5d08c99383",
+    "author": "Mahatma Gandhi",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+    "skinTone": "#d08b5b",
+    "tags": "Change",
+    "text": "Be the change that you wish to see in the world."
+  },
+  {
+    "id": "7f41a9be-6e9d-40ad-b4b3-6cee234b0ebb",
+    "author": "Heraclitus",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Heraclitus",
+    "skinTone": "#edb98a",
+    "tags": "Change",
+    "text": "The only constant in life is change."
+  },
+  {
+    "id": "62f016e8-ee66-466d-bc8f-ee3c141c41ad",
+    "author": "Winston Churchill",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Winston_Churchill",
+    "skinTone": "#edb98a",
+    "tags": "Change",
+    "text": "To improve is to change; to be perfect is to change often."
+  },
+  {
+    "id": "e441e055-1b7a-41b1-ba1e-78fc3e458164",
+    "author": "Maya Angelou",
+    "datetime": "",
+    "gender": "f",
+    "reference": "https://twitter.com/DrMayaAngelou",
+    "skinTone": "#ae5d29",
+    "tags": "Change",
+    "text": "If you don't like something, change it. If you can't change it, change your attitude."
+  },
+  {
+    "id": "d653f075-cdd3-4267-bd40-6f1f1b1b0d79",
+    "author": "Steve Jobs",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Steve_Jobs",
+    "skinTone": "#edb98a",
+    "tags": "Change",
+    "text": "The people who are crazy enough to think they can change the world are the ones who do."
+  },
+  {
+    "id": "404ed7aa-92be-404b-ab6c-f7859d550a30",
+    "author": "C. S. Lewis",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/C._S._Lewis",
+    "skinTone": "#edb98a",
+    "tags": "Change",
+    "text": "You can't go back and change the beginning, but you can start where you are and change the ending."
+  },
+  {
+    "id": "54440db0-5ffd-4209-b9b8-a0a3d6672884",
+    "author": "Lao Tzu",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Laozi",
+    "skinTone": "#d08b5b",
+    "tags": "Change",
+    "text": "Life is a series of natural and spontaneous changes. Don't resist them; that only creates sorrow. Let reality be reality. Let things flow naturally forward in whatever way they like."
+  },
+  {
+    "id": "d8bbc866-a732-486c-8a70-3d5f5e3d9fc3",
+    "author": "Jim Rohn",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Jim_Rohn",
+    "skinTone": "#edb98a",
+    "tags": "Change",
+    "text": "Your life does not get better by chance, it gets better by change."
+  },
+  {
+    "id": "8e1fb56c-b462-439d-a7af-553dbb985a5c",
+    "author": "Helen Keller",
+    "datetime": "",
+    "gender": "f",
+    "reference": "https://en.wikipedia.org/wiki/Helen_Keller",
+    "skinTone": "#edb98a",
+    "tags": "Change",
+    "text": "A bend in the road is not the end of the road. Unless you fail to make the turn."
+  },
+  {
+    "id": "e52aa657-9caa-4e3d-89d3-ab8f90836c59",
+    "author": "Oprah Winfrey",
+    "datetime": "",
+    "gender": "f",
+    "reference": "https://twitter.com/Oprah",
+    "skinTone": "#ae5d29",
+    "tags": "Change",
+    "text": "Step out of the history that is holding you back. Step into the new story you are willing to create."
+  },
+  {
+    "id": "73516d54-08f9-41cc-83fc-b397f35c2934",
+    "author": "Charles Darwin",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Charles_Darwin",
+    "skinTone": "#edb98a",
+    "tags": "Change",
+    "text": "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change."
+  },
+  {
+    "id": "0c7e375d-f679-4e0c-9c95-36ce413d06d7",
+    "author": "Ralph Waldo Emerson",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson",
+    "skinTone": "#edb98a",
+    "tags": "Change",
+    "text": "Do not go where the path may lead, go instead where there is no path and leave a trail."
+  },
+  {
+    "id": "46022729-f9e2-4889-ba27-2bbc52f80321",
+    "author": "Tony Robbins",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/TonyRobbins",
+    "skinTone": "#edb98a",
+    "tags": "Change",
+    "text": "The only limit to your impact is your imagination and commitment."
+  },
+  {
+    "id": "12366442-c737-45df-bf07-f2feeba3b41f",
+    "author": "John C. Maxwell",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/TheJohnCMaxwell",
+    "skinTone": "#edb98a",
+    "tags": "Change",
+    "text": "Change is inevitable. Growth is optional."
+  },
+  {
+    "id": "62f613f6-0a4b-41fd-9994-44af85517c4f",
+    "author": "Robert F. Kennedy",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Robert_F._Kennedy",
+    "skinTone": "#edb98a",
+    "tags": "Change",
+    "text": "Progress is a nice word. But change is its motivator. And change has its enemies."
+  },
+  {
+    "id": "3985b4d1-7526-419a-a82a-3158540487e9",
+    "author": "Aristotle",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Aristotle",
+    "skinTone": "#edb98a",
+    "tags": "Change",
+    "text": "It is during our darkest moments that we must focus to see the light."
+  },
+  {
+    "id": "62054d68-8547-4b57-b5dc-1879f4141bf1",
+    "author": "Mae Jemison",
+    "datetime": "",
+    "gender": "f",
+    "reference": "https://en.wikipedia.org/wiki/Mae_Jemison",
+    "skinTone": "#ae5d29",
+    "tags": "Change",
+    "text": "Never be limited by other people's limited imaginations."
+  },
+  {
+    "id": "d4edf640-1a7e-4e72-944d-38fb9197e573",
+    "author": "Eleanor Roosevelt",
+    "datetime": "",
+    "gender": "f",
+    "reference": "https://en.wikipedia.org/wiki/Eleanor_Roosevelt",
+    "skinTone": "#edb98a",
+    "tags": "Change",
+    "text": "Do one thing every day that scares you."
+  },
+  {
+    "id": "e4ebcfad-05cb-4d4e-959a-f00b20313555",
+    "author": "Napoleon Hill",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Napoleon_Hill",
+    "skinTone": "#edb98a",
+    "tags": "Change",
+    "text": "Don't wait. The time will never be just right."
+  },
+  {
+    "id": "33038186-7c53-4245-879f-9721126863eb",
+    "author": "George Bernard Shaw",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/George_Bernard_Shaw",
+    "skinTone": "#edb98a",
+    "tags": "Change",
+    "text": "Progress is impossible without change, and those who cannot change their minds cannot change anything."
+  },
+  {
+    "id": "2c57b160-0657-43a6-b4ce-acad4ca0aeb5",
+    "author": "Stephen R. Covey",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Stephen_Covey",
+    "skinTone": "#edb98a",
+    "tags": "Change",
+    "text": "The key to change... is to let go of fear."
+  },
+  {
+    "id": "804e07ce-07ca-438e-a48c-4802f7a9e226",
+    "author": "Marie Curie",
+    "datetime": "",
+    "gender": "f",
+    "reference": "https://en.wikipedia.org/wiki/Marie_Curie",
+    "skinTone": "#edb98a",
+    "tags": "Change,Life",
+    "text": "Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves. We must believe that we are gifted for something and that this thing must be attained."
+  },
+  {
+    "id": "7644475b-f617-4151-8cbf-c450a9276318",
+    "author": "Wayne Dyer",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/DrWayneWDyer",
+    "skinTone": "#edb98a",
+    "tags": "Change",
+    "text": "Change the way you look at things and the things you look at change."
+  },
+  {
+    "id": "1da5b762-2e32-40b7-ac11-c95a37ef13dd",
+    "author": "Gail Sheehy",
+    "datetime": "",
+    "gender": "f",
+    "reference": "https://en.wikipedia.org/wiki/Gail_Sheehy",
+    "skinTone": "#edb98a",
+    "tags": "Change",
+    "text": "If we don't change, we don't grow. If we don't grow, we aren't really living."
+  },
+  {
+    "id": "51d6a79b-e01c-40f2-801a-d908cdc4b3a6",
+    "author": "John F. Kennedy",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/John_F._Kennedy",
+    "skinTone": "#edb98a",
+    "tags": "Change",
+    "text": "Change is the law of life. And those who look only to the past or present are certain to miss the future."
+  },
+  {
+    "id": "c964f575-0eaa-415c-8bed-4c6b44d8056c",
+    "author": "Maya Angelou",
+    "datetime": "",
+    "gender": "f",
+    "reference": "https://twitter.com/DrMayaAngelou",
+    "skinTone": "#ae5d29",
+    "tags": "Courage",
+    "text": "I can be changed by what happens to me, but I refuse to be reduced by it."
+  },
+  {
+    "id": "39749454-d36c-4f99-b08b-c1f4dbee5162",
+    "author": "C. S. Lewis",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/C._S._Lewis",
+    "skinTone": "#edb98a",
+    "tags": "Courage",
+    "text": "You are never too old to set another goal or to dream a new dream."
+  },
+  {
+    "id": "1b8dc325-b47b-4d70-989a-4e4f538b9f85",
+    "author": "Mark Twain",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Mark_Twain",
+    "skinTone": "#edb98a",
+    "tags": "Courage,Wisdom",
+    "text": "Courage is resistance to fear, mastery of fear—not absence of fear."
+  },
+  {
+    "id": "7d3a044f-e58c-4b6b-ab79-9c58fac12233",
+    "author": "Rosa Parks",
+    "datetime": "",
+    "gender": "f",
+    "reference": "https://en.wikipedia.org/wiki/Rosa_Parks",
+    "skinTone": "#ae5d29",
+    "tags": "Courage",
+    "text": "I have learned over the years that when one's mind is made up, this diminishes fear."
+  },
+  {
+    "id": "87a247d0-9965-4649-bb35-f9f9072544a4",
+    "author": "Oprah Winfrey",
+    "datetime": "",
+    "gender": "f",
+    "reference": "https://twitter.com/Oprah",
+    "skinTone": "#ae5d29",
+    "tags": "Courage",
+    "text": "Real courage is when you know you're licked before you begin, but you begin anyway and see it through no matter what."
+  },
+  {
+    "id": "6589d3dc-7f79-4410-b519-9857709c180f",
+    "author": "J.K. Rowling",
+    "datetime": "",
+    "gender": "f",
+    "reference": "https://twitter.com/jk_rowling",
+    "skinTone": "#edb98a",
+    "tags": "Courage",
+    "text": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends."
+  },
+  {
+    "id": "238ea0f5-9062-4d5c-b5c6-e393453e996b",
+    "author": "Walt Disney",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Walt_Disney",
+    "skinTone": "#edb98a",
+    "tags": "Courage,Creativity",
+    "text": "All our dreams can come true if we have the courage to pursue them."
+  },
+  {
+    "id": "38caecb4-3ce7-4a97-9a6e-9d01d6101d6f",
+    "author": "Amelia Earhart",
+    "datetime": "",
+    "gender": "f",
+    "reference": "https://en.wikipedia.org/wiki/Amelia_Earhart",
+    "skinTone": "#edb98a",
+    "tags": "Courage",
+    "text": "The most effective way to do it is to do it."
+  },
+  {
+    "id": "47ddc899-74c7-405e-9b37-7145ead1a70f",
+    "author": "J. R. R. Tolkien",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/J._R._R._Tolkien",
+    "skinTone": "#edb98a",
+    "tags": "Courage",
+    "text": "Courage is found in unlikely places."
+  },
+  {
+    "id": "01e6075d-d27b-4f96-93df-4ff96266b5b3",
+    "author": "Malala Yousafzai",
+    "datetime": "",
+    "gender": "f",
+    "reference": "https://en.wikipedia.org/wiki/Malala_Yousafzai",
+    "skinTone": "#edb98a",
+    "tags": "Courage",
+    "text": "When the whole world is silent, even one voice becomes powerful."
+  },
+  {
+    "id": "b70bc133-9b7e-4168-b348-03131c691ebf",
+    "author": "Martin Luther King Jr.",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.",
+    "skinTone": "#ae5d29",
+    "tags": "Courage",
+    "text": "The time is always right to do what is right."
+  },
+  {
+    "id": "6d7bcd1d-05a6-4739-9ff3-a56ee47c72f4",
+    "author": "Aristotle",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Aristotle",
+    "skinTone": "#edb98a",
+    "tags": "Courage",
+    "text": "Courage is the first of human qualities because it is the quality that guarantees the others."
+  },
+  {
+    "id": "3ec59c7b-80ae-4041-8af0-0dd4fb7e6719",
+    "author": "Helen Keller",
+    "datetime": "",
+    "gender": "f",
+    "reference": "https://en.wikipedia.org/wiki/Helen_Keller",
+    "skinTone": "#edb98a",
+    "tags": "Courage",
+    "text": "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence."
   }
 ]
