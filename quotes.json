@@ -2418,5 +2418,205 @@
     "skinTone": "#edb98a",
     "tags": "Life,Wisdom",
     "text": "Just be real, it saves everyone's time."
+  },
+  {
+    "id": "2c7454d3-b27a-4e9a-b7ee-894864c3e133",
+    "author": "Pablo Picasso",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Pablo_Picasso",
+    "skinTone": "#edb98a",
+    "tags": "Creativity",
+    "text": "Every child is an artist. The problem is how to remain an artist once he grows up."
+  },
+  {
+    "id": "e2d1b5e0-0854-4ff1-8eb0-b7223f863f8a",
+    "author": "Maya Angelou",
+    "datetime": "",
+    "gender": "f",
+    "reference": "https://twitter.com/DrMayaAngelou",
+    "skinTone": "#ae5d29",
+    "tags": "Creativity",
+    "text": "You can’t use up creativity. The more you use, the more you have."
+  },
+  {
+    "id": "7294abe7-9447-45ed-9b74-eb426e8a4391",
+    "author": "Steve Jobs",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Steve_Jobs",
+    "skinTone": "#edb98a",
+    "tags": "Creativity",
+    "text": "Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while."
+  },
+  {
+    "id": "90d75d3b-4f7f-4a9f-b039-078a0a1e1daf",
+    "author": "Walt Disney",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Walt_Disney",
+    "skinTone": "#edb98a",
+    "tags": "Creativity,Dreams",
+    "text": "If you can dream it, you can do it."
+  },
+  {
+    "id": "84c46cf0-f3ca-457a-9c7d-54229b64f5e9",
+    "author": "Thomas Edison",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Thomas_Edison",
+    "skinTone": "#edb98a",
+    "tags": "Creativity",
+    "text": "To invent, you need a good imagination and a pile of junk."
+  },
+  {
+    "id": "acc3e427-f0f7-44f1-a068-3f8612b8bd3d",
+    "author": "Aristotle",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Aristotle",
+    "skinTone": "#edb98a",
+    "tags": "Creativity",
+    "text": "The more you know, the more you realize you don't know."
+  },
+  {
+    "id": "8ca423e7-1113-449e-8a93-249cd19dc4d8",
+    "author": "Leo Burnett",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Leo_Burnett",
+    "skinTone": "#edb98a",
+    "tags": "Creativity",
+    "text": "Curiosity about life in all of its aspects, I think, is still the secret of great creative people."
+  },
+  {
+    "id": "8aad323e-0e2d-45d1-b5ed-5a94396337c1",
+    "author": "George Bernard Shaw",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/George_Bernard_Shaw",
+    "skinTone": "#edb98a",
+    "tags": "Creativity",
+    "text": "You see things and you say, 'Why?' But I dream things that never were and I say, 'Why not?'"
+  },
+  {
+    "id": "eb61b7a2-e141-4c29-8ca0-3eaffe653c7a",
+    "author": "Andy Warhol",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Andy_Warhol",
+    "skinTone": "#edb98a",
+    "tags": "Creativity",
+    "text": "Don't think about making art, just get it done. Let everyone else decide if it's good or bad, whether they love it or hate it. While they are deciding, make even more art."
+  },
+  {
+    "id": "3ef8b550-ae16-4b14-8da2-798ca7815811",
+    "author": "Dale Carnegie",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Dale_Carnegie",
+    "skinTone": "#edb98a",
+    "tags": "Success",
+    "text": "Develop success from failures. Discouragement and failure are two of the surest stepping stones to success."
+  },
+  {
+    "id": "a97d23cb-0f91-4deb-b1c5-23df7c0c5421",
+    "author": "Twyla Tharp",
+    "datetime": "",
+    "gender": "f",
+    "reference": "https://en.wikipedia.org/wiki/Twyla_Tharp",
+    "skinTone": "#edb98a",
+    "tags": "Creativity",
+    "text": "Creativity is not just for artists. It's for businesspeople looking for a new way to close a sale; it's for engineers trying to solve a problem; it's for parents who want their children to see the world in more than one way."
+  },
+  {
+    "id": "ba9c3039-47ef-4b69-9260-a94c9535c2c4",
+    "author": "Frank Zappa",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Frank_Zappa",
+    "skinTone": "#edb98a",
+    "tags": "Creativity",
+    "text": "Without deviation from the norm, progress is not possible."
+  },
+  {
+    "id": "6bd9f02c-5d67-4f43-befc-53daae037cb7",
+    "author": "Oscar Wilde",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Oscar_Wilde",
+    "skinTone": "#edb98a",
+    "tags": "Creativity",
+    "text": "Be yourself; everyone else is already taken."
+  },
+  {
+    "id": "918a2c01-a0db-4ad6-bd54-cb2a820bd1df",
+    "author": "Ellen Johnson Sirleaf",
+    "datetime": "",
+    "gender": "f",
+    "reference": "https://en.wikipedia.org/wiki/Ellen_Johnson_Sirleaf",
+    "skinTone": "#ae5d29",
+    "tags": "Creativity",
+    "text": "The size of your dreams must always exceed your current capacity to achieve them. If your dreams do not scare you, they are not big enough."
+  },
+  {
+    "id": "637ab043-4540-48cf-a470-5610d9d603fb",
+    "author": "Marie Curie",
+    "datetime": "",
+    "gender": "f",
+    "reference": "https://en.wikipedia.org/wiki/Marie_Curie",
+    "skinTone": "#edb98a",
+    "tags": "Life,Success,Patience,Wisdom",
+    "text": "I was taught that the way of progress was neither swift nor easy."
+  },
+  {
+    "id": "ea819f5f-ded3-4637-8916-52b7c5742249",
+    "author": "Orson Welles",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Orson_Welles",
+    "skinTone": "#edb98a",
+    "tags": "Creativity",
+    "text": "Create your own visual style... let it be unique for yourself and yet identifiable for others."
+  },
+  {
+    "id": "8e4c38d2-af76-4dc5-a2ea-4e274684dd4a",
+    "author": "Georgia O'Keeffe",
+    "datetime": "",
+    "gender": "f",
+    "reference": "https://en.wikipedia.org/wiki/Georgia_O%27Keeffe",
+    "skinTone": "",
+    "tags": "Creativity,Courage",
+    "text": "I've been absolutely terrified every moment of my life – and I've never let it keep me from doing a single thing I wanted to do."
+  },
+  {
+    "id": "920e24cf-ba08-42ef-b6e3-8240caacf232",
+    "author": "George Bernard Shaw",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/George_Bernard_Shaw",
+    "skinTone": "#edb98a",
+    "tags": "Creativity",
+    "text": "The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man."
+  },
+  {
+    "id": "d5a9320d-526f-4f7f-85ff-f857ed68fa5f",
+    "author": "John C. Maxwell",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/TheJohnCMaxwell",
+    "skinTone": "#edb98a",
+    "tags": "Courage,Wisdom,Life,Self-improvement",
+    "text": "A man must be big enough to admit his mistakes, smart enough to profit from them, and strong enough to correct them."
+  },
+  {
+    "id": "cb5a59a3-aed0-462c-a830-64eae624b8d9",
+    "author": "Charles Mingus",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Charles_Mingus",
+    "skinTone": "#ae5d29",
+    "tags": "Creativity",
+    "text": "Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that's creativity."
   }
 ]
