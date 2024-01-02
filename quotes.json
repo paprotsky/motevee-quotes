@@ -2640,7 +2640,7 @@
     "text": "The future belongs to those who believe in the beauty of their dreams."
   },
   {
-    "uuid": "30e2c1a4-6ac9-46c4-8ce8-629bbd37eb79",
+    "id": "30e2c1a4-6ac9-46c4-8ce8-629bbd37eb79",
     "author": "Oprah Winfrey",
     "datetime": "",
     "gender": "f",
@@ -2650,7 +2650,7 @@
     "text": "The biggest adventure you can take is to live the life of your dreams."
   },
   {
-    "uuid": "85816a5a-72e4-4811-ae0b-906bf0ba3074",
+    "id": "85816a5a-72e4-4811-ae0b-906bf0ba3074",
     "author": "J.K. Rowling",
     "datetime": "",
     "gender": "f",
@@ -2660,7 +2660,7 @@
     "text": "It does not do to dwell on dreams and forget to live."
   },
   {
-    "uuid": "67bedcbe-d89e-4bdf-a5fc-8a4a5961901e",
+    "id": "67bedcbe-d89e-4bdf-a5fc-8a4a5961901e",
     "author": "E. E. Cummings",
     "datetime": "",
     "gender": "m",
@@ -2670,7 +2670,7 @@
     "text": "It takes courage to grow up and become who you really are."
   },
   {
-    "uuid": "f16077eb-7559-4c19-b017-3a08f3ead301",
+    "id": "f16077eb-7559-4c19-b017-3a08f3ead301",
     "author": "Maya Angelou",
     "datetime": "",
     "gender": "f",
@@ -2680,7 +2680,7 @@
     "text": "A bird doesn't sing because it has an answer; it sings because it has a song."
   },
   {
-    "uuid": "9a7e673c-27d8-4324-bc10-3d15ea6a7f2a",
+    "id": "9a7e673c-27d8-4324-bc10-3d15ea6a7f2a",
     "author": "Vincent van Gogh",
     "datetime": "",
     "gender": "m",
@@ -2690,7 +2690,7 @@
     "text": "I dream my painting and I paint my dream."
   },
   {
-    "uuid": "7d9c114f-d3f7-46af-b3d7-913be29b19c8",
+    "id": "7d9c114f-d3f7-46af-b3d7-913be29b19c8",
     "author": "H. Jackson Brown Jr.",
     "datetime": "",
     "gender": "m",
@@ -2700,7 +2700,7 @@
     "text": "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover."
   },
   {
-    "uuid": "85c660f5-63c8-4f12-8d5f-14e32db4da17",
+    "id": "85c660f5-63c8-4f12-8d5f-14e32db4da17",
     "author": "Epicurus",
     "datetime": "",
     "gender": "m",
@@ -2710,7 +2710,7 @@
     "text": "Do not spoil what you have by desiring what you have not; remember that what you now have was once among the things you only hoped for."
   },
   {
-    "uuid": "c07cbf1b-9c7f-4762-952d-88b9e0fee954",
+    "id": "c07cbf1b-9c7f-4762-952d-88b9e0fee954",
     "author": "Henry David Thoreau",
     "datetime": "",
     "gender": "m",
@@ -2720,7 +2720,7 @@
     "text": "Go confidently in the direction of your dreams. Live the life you have imagined."
   },
   {
-    "uuid": "5f4a6c4a-7fc1-41b5-8995-19c762e8ba24",
+    "id": "5f4a6c4a-7fc1-41b5-8995-19c762e8ba24",
     "author": "Erich Fromm",
     "datetime": "",
     "gender": "m",
@@ -2730,7 +2730,7 @@
     "text": "To dream is not enough. You must go beyond dreaming and start doing."
   },
   {
-    "uuid": "997b623a-5afa-481b-915f-aaa3ed8d5e30",
+    "id": "997b623a-5afa-481b-915f-aaa3ed8d5e30",
     "author": "William Faulkner",
     "datetime": "",
     "gender": "m",
@@ -2740,7 +2740,7 @@
     "text": "You cannot swim for new horizons until you have courage to lose sight of the shore."
   },
   {
-    "uuid": "35eb600b-61f1-445b-ab8b-fe9bcb3a018e",
+    "id": "35eb600b-61f1-445b-ab8b-fe9bcb3a018e",
     "author": "A. P. J. Abdul Kalam",
     "datetime": "",
     "gender": "m",
@@ -2750,7 +2750,7 @@
     "text": "Dream, dream, dream. Dreams transform into thoughts and thoughts result in action."
   },
   {
-    "uuid": "3a0ebe61-7e9c-4637-a4f5-2f8c6d11c3fe",
+    "id": "3a0ebe61-7e9c-4637-a4f5-2f8c6d11c3fe",
     "author": "Lewis Carroll",
     "datetime": "",
     "gender": "m",
@@ -2760,7 +2760,7 @@
     "text": "I can't go back to yesterday because I was a different person then."
   },
   {
-    "uuid": "d498981e-dc35-4d50-a722-e469c6d01bd7",
+    "id": "d498981e-dc35-4d50-a722-e469c6d01bd7",
     "author": "Eleanor Roosevelt",
     "datetime": "",
     "gender": "f",
@@ -2770,7 +2770,7 @@
     "text": "The only limit to our realization of tomorrow will be our doubts of today."
   },
   {
-    "uuid": "b7bf885c-5e86-40e7-986b-e1a19a48564e",
+    "id": "b7bf885c-5e86-40e7-986b-e1a19a48564e",
     "author": "George Eliot",
     "datetime": "",
     "gender": "f",
@@ -2780,7 +2780,7 @@
     "text": "It is never too late to be what you might have been."
   },
   {
-    "uuid": "33849a78-abbe-402e-a6a8-732cb6aa4aff",
+    "id": "33849a78-abbe-402e-a6a8-732cb6aa4aff",
     "author": "Ayn Rand",
     "datetime": "",
     "gender": "f",
@@ -2790,7 +2790,7 @@
     "text": "The question isn't who is going to let me; it's who is going to stop me."
   },
   {
-    "uuid": "64b07f3a-af2c-4395-8032-481c67b3954a",
+    "id": "64b07f3a-af2c-4395-8032-481c67b3954a",
     "author": "Christopher Reeve",
     "datetime": "",
     "gender": "m",
@@ -2800,7 +2800,7 @@
     "text": "So many of our dreams at first seem impossible, then they seem improbable, and then, when we summon the will, they soon become inevitable."
   },
   {
-    "uuid": "a9036e9f-3aac-4538-a7e5-0de5f2118b55",
+    "id": "a9036e9f-3aac-4538-a7e5-0de5f2118b55",
     "author": "Eleanor Roosevelt",
     "datetime": "",
     "gender": "f",
@@ -2810,7 +2810,7 @@
     "text": "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well."
   },
   {
-    "uuid": "495256c4-08d4-4854-bd4d-883a77cd0172",
+    "id": "495256c4-08d4-4854-bd4d-883a77cd0172",
     "author": "John Wooden",
     "datetime": "",
     "gender": "m",
@@ -2820,7 +2820,7 @@
     "text": "Don't mistake activity with achievement."
   },
   {
-    "uuid": "49672eb0-3b88-45c2-99f3-b7fd2aa31262",
+    "id": "49672eb0-3b88-45c2-99f3-b7fd2aa31262",
     "author": "Ralph Waldo Emerson",
     "datetime": "",
     "gender": "m",
