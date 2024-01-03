@@ -236,7 +236,7 @@
     "gender": "f",
     "reference": "https://twitter.com/Oprah",
     "skinTone": "#ae5d29",
-    "tags": "Success, Inspiration",
+    "tags": "Success,Inspiration",
     "text": "Think like a queen. A queen is not afraid to fail. Failure is another stepping stone to greatness."
   },
   {
@@ -2828,5 +2828,165 @@
     "skinTone": "#edb98a",
     "tags": "Dreams,Life,Courage",
     "text": "Do not be too timid and squeamish about your actions. All life is an experiment. The more experiments you make the better."
+  },
+  {
+    "id": "82489a5f-65bd-4adb-adfb-30e56af82e86",
+    "author": "Steve Jobs",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Steve_Jobs",
+    "skinTone": "#edb98a",
+    "tags": "Entrepreneurship,Business,Life",
+    "text": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do."
+  },
+  {
+    "id": "ade3a1b2-5b4e-47b3-b9f0-8d4abafd67dd",
+    "author": "Elon Musk",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/elonmusk",
+    "skinTone": "#edb98a",
+    "tags": "Entrepreneurship,Life",
+    "text": "When something is important enough, you do it even if the odds are not in your favor."
+  },
+  {
+    "id": "b1e6cb22-edb6-44a3-bfbc-14e112b77c8f",
+    "author": "Oprah Winfrey",
+    "datetime": "",
+    "gender": "f",
+    "reference": "https://twitter.com/Oprah",
+    "skinTone": "#ae5d29",
+    "tags": "Success,Inspiration,Entrepreneurship",
+    "text": "You become what you believe. You are where you are today in your life based on everything you have believed."
+  },
+  {
+    "id": "d646c3d6-1f7e-4ae3-a663-898904460958",
+    "author": "Mark Zuckerberg",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Mark_Zuckerberg",
+    "skinTone": "#edb98a",
+    "tags": "Entrepreneurship",
+    "text": "The biggest risk is not taking any risk. In a world that's changing really quickly, the only strategy that is guaranteed to fail is not taking risks."
+  },
+  {
+    "id": "fb5490d0-a51e-4d0e-bf25-fdf59e47ac3f",
+    "author": "Arianna Huffington",
+    "datetime": "",
+    "gender": "f",
+    "reference": "https://en.wikipedia.org/wiki/Arianna_Huffington",
+    "skinTone": "#edb98a",
+    "tags": "Entrepreneurship",
+    "text": "Fearlessness is not the absence of fear. It's the mastery of fear. It's about getting up one more time than we fall down."
+  },
+  {
+    "id": "de9ba937-51f8-4f40-9162-016d6be2698f",
+    "author": "Warren Buffett",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/WarrenBuffett",
+    "skinTone": "#edb98a",
+    "tags": "Entrepreneurship,Self-improvement",
+    "text": "The best investment you can make is in yourself."
+  },
+  {
+    "id": "7c3161f3-dd80-4658-b392-3f6400e05e6b",
+    "author": "Sheryl Sandberg",
+    "datetime": "",
+    "gender": "f",
+    "reference": "https://twitter.com/sherylsandberg",
+    "skinTone": "#edb98a",
+    "tags": "Entrepreneurship",
+    "text": "Don’t be afraid to speak up and advocate for yourself. Own your own success."
+  },
+  {
+    "id": "5da7208d-a345-49ef-9bb1-ec5a1ec9774e",
+    "author": "Coco Chanel",
+    "datetime": "",
+    "gender": "f",
+    "reference": "https://en.wikipedia.org/wiki/Coco_Chanel",
+    "skinTone": "#edb98a",
+    "tags": "Entrepreneurship,Success",
+    "text": "Success is most often achieved by those who don't know that failure is inevitable."
+  },
+  {
+    "id": "32157186-1719-4ff2-b4d6-83a904ce6ace",
+    "author": "Jeff Bezos",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/JeffBezos",
+    "skinTone": "#edb98a",
+    "tags": "Entrepreneurship,Business",
+    "text": "I knew that if I failed I wouldn't regret that, but I knew the one thing I might regret is not trying."
+  },
+  {
+    "id": "d8222264-2290-43c7-9576-5dac02b34fc8",
+    "author": "Michael Dell",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Michael_Dell",
+    "skinTone": "#edb98a",
+    "tags": "Entrepreneurship",
+    "text": "You don't have to be a genius or a visionary or even a college graduate to be successful. You just need a framework and a dream."
+  },
+  {
+    "id": "c6479067-ac6b-4d5c-834c-d806b0094a42",
+    "author": "Estée Lauder",
+    "datetime": "",
+    "gender": "f",
+    "reference": "https://en.wikipedia.org/wiki/Est%C3%A9e_Lauder_(businesswoman)",
+    "skinTone": "#edb98a",
+    "tags": "Entrepreneurship",
+    "text": "I didn't get there by wishing for it or hoping for it, but by working for it."
+  },
+  {
+    "id": "ca01f41b-fbb7-4928-bf8a-0c9bbc7d98da",
+    "author": "Larry Page",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Larry_Page",
+    "skinTone": "#edb98a",
+    "tags": "Entrepreneurship",
+    "text": "Always deliver more than expected."
+  },
+  {
+    "id": "8b6bad06-7adc-4934-b855-5b48889c34dd",
+    "author": "Jeff Bezos",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/JeffBezos",
+    "skinTone": "#edb98a",
+    "tags": "Entrepreneurship,Business",
+    "text": "If you're competitor-focused, you have to wait until there is a competitor doing something. Being customer-focused allows you to be more pioneering."
+  },
+  {
+    "id": "61b121fe-a5e7-4645-82a1-0c5f34238039",
+    "author": "Sara Blakely",
+    "datetime": "",
+    "gender": "f",
+    "reference": "https://en.wikipedia.org/wiki/Sara_Blakely",
+    "skinTone": "#edb98a",
+    "tags": "Entrepreneurship,Business",
+    "text": "Embrace what you don’t know, especially in the beginning, because what you don’t know can become your greatest asset. It ensures that you will absolutely be doing things different from everybody else."
+  },
+  {
+    "id": "079836f6-2d31-4664-bf50-f75d8b027bd1",
+    "author": "Bill Gates",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/BillGates",
+    "skinTone": "#edb98a",
+    "tags": "Entrepreneurship,Life",
+    "text": "If you are born poor it's not your mistake, but if you die poor it's your mistake."
+  },
+  {
+    "id": "15fecd20-db9c-456a-bf41-44ab10e51212",
+    "author": "Warren Buffett",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/WarrenBuffett",
+    "skinTone": "#edb98a",
+    "tags": "Entrepreneurship,Success",
+    "text": "It's better to hang out with people better than you. Pick out associates whose behavior is better than yours, and you'll drift in that direction."
   }
 ]
