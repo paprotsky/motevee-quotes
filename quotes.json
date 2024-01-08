@@ -1890,16 +1890,6 @@
     "text": "God is giving you clues every day. Are you paying attention?"
   },
   {
-    "id": "d10123ac-3381-42a7-803f-9cfcaac52700",
-    "author": "",
-    "datetime": "",
-    "gender": "m",
-    "reference": "",
-    "skinTone": "#edb98a",
-    "tags": "Wisdom",
-    "text": "God is giving you clues every day. Are you paying attention?"
-  },
-  {
     "id": "644d11d8-f1ee-4abe-a811-99f25410e2aa",
     "author": "Dau Voire",
     "datetime": "",
@@ -2988,5 +2978,45 @@
     "skinTone": "#edb98a",
     "tags": "Entrepreneurship,Success",
     "text": "It's better to hang out with people better than you. Pick out associates whose behavior is better than yours, and you'll drift in that direction."
+  },
+  {
+    "id": "e9eb8521-607f-4f1f-b1ab-f7080108e28e",
+    "author": "Mark Twain",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Mark_Twain",
+    "skinTone": "#edb98a",
+    "tags": "Friendship,Life",
+    "text": "Good friends, good books, and a sleepy conscience: this is the ideal life."
+  },
+  {
+    "id": "dc30f902-a4ee-44cd-a756-fafbe17c1306",
+    "author": "Jess C. Scott",
+    "datetime": "",
+    "gender": "f",
+    "reference": "",
+    "skinTone": "#edb98a",
+    "tags": "Love,Friendship",
+    "text": "When someone loves you, the way they talk about you is different. You feel safe and comfortable."
+  },
+  {
+    "id": "d8249ea1-1498-4422-b4c2-f793bac7c49b",
+    "author": "Helen Keller",
+    "datetime": "",
+    "gender": "f",
+    "reference": "https://en.wikipedia.org/wiki/Helen_Keller",
+    "skinTone": "#edb98a",
+    "tags": "Friendship",
+    "text": "I would rather walk with a friend in the dark, than alone in the light."
+  },
+  {
+    "id": "adbca41d-bfcb-4d56-9a21-8eedf6d54db0",
+    "author": "Henry Ford",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Henry_Ford",
+    "skinTone": "#edb98a",
+    "tags": "Friendship",
+    "text": "My best friend is the one who brings out the best in me."
   }
 ]
