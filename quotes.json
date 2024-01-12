@@ -46,7 +46,7 @@
     "gender": "m",
     "reference": "https://twitter.com/LincolnQuot",
     "skinTone": "#edb98a",
-    "tags": "",
+    "tags": "Success",
     "text": "That some achieve great success, is proof to all that others can achieve it as well."
   },
   {
@@ -98,6 +98,16 @@
     "skinTone": "#edb98a",
     "tags": "Success, Courage",
     "text": "Success is not final, failure is not fatal: It is the courage to continue that counts."
+  },
+  {
+    "id": "39ab5eae-237b-45bf-a2e1-71357bb6bab5",
+    "author": "Winston Churchill",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Winston_Churchill",
+    "skinTone": "#edb98a",
+    "tags": "Success, Courage",
+    "text": "You will never reach your destination if you stop and throw stones at every dog that barks."
   },
   {
     "id": "335fd234-6f2a-4be2-b0e9-1240b522954c",
@@ -827,7 +837,7 @@
     "reference": "https://twitter.com/WarrenBuffett",
     "skinTone": "#edb98a",
     "tags": "Business",
-    "text": "The best investment you can make is in yourself."
+    "text": "Price is what you pay. Value is what you get."
   },
   {
     "id": "f3f16c8e-d87b-46d2-9c3b-cbf9e296ca71",
@@ -1208,6 +1218,16 @@
     "skinTone": "#edb98a",
     "tags": "Self-improvement,Motivation",
     "text": "Think of yourself as dead. You have lived your life. Now take what's left and live it properly."
+  },
+  {
+    "id": "670a8266-e5e9-4b25-8ff7-16d79eb9da70",
+    "author": "Marcus Aurelius",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Marcus_Aurelius",
+    "skinTone": "#edb98a",
+    "tags": "Self-improvement,Motivation",
+    "text": "The happiness of your life depends upon the quality of your thoughts."
   },
   {
     "id": "7f9c120d-5f65-4659-a6fe-4ff5e916a70e",
@@ -1758,6 +1778,16 @@
     "skinTone": "#edb98a",
     "tags": "Friendship",
     "text": "When you choose your friends today, you are choosing your habits tomorrow."
+  },
+  {
+    "id": "f1d15c73-594b-4c7d-9699-4fb500bac3f7",
+    "author": "James Clear",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/JamesClear",
+    "skinTone": "#edb98a",
+    "tags": "Self-improvement",
+    "text": "Every action you take is a vote for the type of person you wish to become."
   },
   {
     "id": "f5808ad2-f3ab-451b-8746-a14658af1daf",
@@ -2360,6 +2390,16 @@
     "text": "Sell your value, not your time."
   },
   {
+    "id": "0eefabba-1a68-47aa-acfa-1fabadba5bb0",
+    "author": "Lemon Squeezy",
+    "datetime": "",
+    "gender": "a",
+    "reference": "https://twitter.com/lmsqueezy",
+    "skinTone": "#edb98a",
+    "tags": "Business,Entrepreneurship,Success",
+    "text": "Success depends on how you manage 2 things:<br />• Your time<br />• Your energy"
+  },
+  {
     "id": "18d24466-010c-46b9-8ec5-c0a26cd2c747",
     "author": "Naval Ravikant",
     "datetime": "",
@@ -2540,6 +2580,16 @@
     "text": "Be yourself; everyone else is already taken."
   },
   {
+    "id": "27ad9f77-6d1c-42eb-a294-d02d0a95850b",
+    "author": "Oscar Wilde",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Oscar_Wilde",
+    "skinTone": "#edb98a",
+    "tags": "Life",
+    "text": "To live is the rarest thing in the world. Most people exist, that is all."
+  },
+  {
     "id": "918a2c01-a0db-4ad6-bd54-cb2a820bd1df",
     "author": "Ellen Johnson Sirleaf",
     "datetime": "",
@@ -2575,7 +2625,7 @@
     "datetime": "",
     "gender": "f",
     "reference": "https://en.wikipedia.org/wiki/Georgia_O%27Keeffe",
-    "skinTone": "",
+    "skinTone": "#edb98a",
     "tags": "Creativity,Courage",
     "text": "I've been absolutely terrified every moment of my life – and I've never let it keep me from doing a single thing I wanted to do."
   },
@@ -3008,5 +3058,555 @@
     "skinTone": "#edb98a",
     "tags": "Friendship",
     "text": "My best friend is the one who brings out the best in me."
+  },
+  {
+    "id": "de910358-3097-44b9-8e28-55b334694cec",
+    "author": "DAN KOE",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/thedankoe",
+    "skinTone": "#edb98a",
+    "tags": "Life",
+    "text": "There doesn't seem to be a more worthwhile endeavor to dedicate your life to than to see what you are capable of."
+  },
+  {
+    "id": "5d0d0d9a-7afb-4152-851c-431e64f13175",
+    "author": "Abraham Lincoln",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/LincolnQuot",
+    "skinTone": "#edb98a",
+    "tags": "Self-improvement",
+    "text": "Discipline is choosing between what you want now and what you want most."
+  },
+  {
+    "id": "480742de-460d-4aa3-bcd0-2e2b18f28607",
+    "author": "",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "skinTone": "#edb98a",
+    "tags": "Self-improvement",
+    "text": "Stop waiting for someone who is not coming back."
+  },
+  {
+    "id": "8322a1b3-3236-4451-9ba4-dc679e282a39",
+    "author": "Ralph Waldo Emerson",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson",
+    "skinTone": "#edb98a",
+    "tags": "Courage",
+    "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment."
+  },
+  {
+    "id": "e8d71399-844b-439f-bb0f-3167d97469ee",
+    "author": "Rick Rubin",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Rick_Rubin",
+    "skinTone": "#edb98a",
+    "tags": "Entrepreneurship,Business",
+    "text": "Do the work and the work will do the rest."
+  },
+  {
+    "id": "151d5533-5652-4ab1-ae58-6fd053c85650",
+    "author": "George Bernard Shaw",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/George_Bernard_Shaw",
+    "skinTone": "#edb98a",
+    "tags": "Life",
+    "text": "Life isn't about finding yourself. Life is about creating yourself."
+  },
+  {
+    "id": "692af8e8-094a-4614-becc-b401714cd235",
+    "author": "",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "skinTone": "#edb98a",
+    "tags": "Self-improvement",
+    "text": "Trying to control what is outside of your control will control you."
+  },
+  {
+    "id": "d5452d65-602b-4e27-abd0-73831d3ff568",
+    "author": "Arnold H. Glasow",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "skinTone": "#edb98a",
+    "tags": "Success",
+    "text": "Success isn't a result of spontaneous combustion. You must set yourself on fire."
+  },
+  {
+    "id": "60209175-087f-4f43-821d-f9a915efc728",
+    "author": "Arnold H. Glasow",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "skinTone": "#edb98a",
+    "tags": "Success",
+    "text": "Success is simple. Do what's right, the right way, at the right time."
+  },
+  {
+    "id": "9421892c-0d7b-4b3c-af67-69156d3f3400",
+    "author": "Paulo Coelho",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/paulocoelho",
+    "skinTone": "#edb98a",
+    "tags": "Entrepreneurship",
+    "text": "One day you will wake up and there won't be any more time to do the things you've always wanted to do. Do it now!"
+  },
+  {
+    "id": "e13c3984-162e-4f86-b795-6121d0bf5ff0",
+    "author": "Dwayne Johnson",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/TheRock",
+    "skinTone": "#edb98a",
+    "tags": "Self-improvement",
+    "text": "When you focus on you, you grow. When you focus on shit, shit grows."
+  },
+  {
+    "id": "abf86800-2f40-4a4e-a374-af07f6c82e93",
+    "author": "Seneca",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Seneca_the_Younger",
+    "skinTone": "#edb98a",
+    "tags": "Self-improvement,Friendship",
+    "text": "What progress have I made? I have begun to be a friend to myself."
+  },
+  {
+    "id": "78b1d9ba-1213-4cee-be30-00ac8c0a0c3b",
+    "author": "",
+    "datetime": "",
+    "gender": "f",
+    "reference": "",
+    "skinTone": "#edb98a",
+    "tags": "Self-improvement",
+    "text": "Give yourself enough respect to walk away from anyone who doesn't see your worth."
+  },
+  {
+    "id": "34cee676-5d5a-4b1c-8b58-c7e68dddc8d5",
+    "author": "Napoleon Hill",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Napoleon_Hill",
+    "skinTone": "#edb98a",
+    "tags": "Dreams",
+    "text": "A goal is a dream with a deadline."
+  },
+  {
+    "id": "dba003b8-ddb1-48ca-b044-5e509389c296",
+    "author": "Seneca",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Seneca_the_Younger",
+    "skinTone": "#edb98a",
+    "tags": "Life",
+    "text": "The whole future lies in uncertainty: live immediately."
+  },
+  {
+    "id": "865bb3a0-f294-440d-9805-f42bc9fde12d",
+    "author": "Voltaire",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Voltaire",
+    "skinTone": "#edb98a",
+    "tags": "Courage",
+    "text": "The most courageous decision that you can make each day is to be in a good mood."
+  },
+  {
+    "id": "8fa01266-a635-424c-8b4d-5dfbeb910ba9",
+    "author": "Mark Manson",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/IAmMarkManson",
+    "skinTone": "#edb98a",
+    "tags": "Wisdom",
+    "text": "Pain is inevitable, suffering is chosen."
+  },
+  {
+    "id": "fff8cf89-63e4-45d6-add7-44b89bb5ca1f",
+    "author": "Mark Manson",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/IAmMarkManson",
+    "skinTone": "#edb98a",
+    "tags": "Happiness",
+    "text": "Happiness requires struggle. Without struggle, the world would lack meaning and our joys would feel empty. Be grateful for your struggles, because within them is the constant opportunity for purpose."
+  },
+  {
+    "id": "721c75b9-9b27-41b9-9aad-d974c0cee53c",
+    "author": "Viktor Frankl",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Viktor_Frankl",
+    "skinTone": "#edb98a",
+    "tags": "Life",
+    "text": "When a person can't find a deep sense of meaning, they distract themselves with pleasure."
+  },
+  {
+    "id": "262cb55d-6cbe-407b-ab51-3a756bcf1887",
+    "author": "Viktor Frankl",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Viktor_Frankl",
+    "skinTone": "#edb98a",
+    "tags": "Life",
+    "text": "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way."
+  },
+  {
+    "id": "ab8b3d16-0068-44cc-99e1-6434dbf2fc00",
+    "author": "Viktor Frankl",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Viktor_Frankl",
+    "skinTone": "#edb98a",
+    "tags": "Change",
+    "text": "When we are no longer able to change a situation, we are challenged to change ourselves."
+  },
+  {
+    "id": "7aaf66e3-d88d-49d0-8937-03400dff0ccf",
+    "author": "Viktor Frankl",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Viktor_Frankl",
+    "skinTone": "#edb98a",
+    "tags": "Life",
+    "text": "Life is never made unbearable by circumstances, but only by lack of meaning and purpose."
+  },
+  {
+    "id": "debe7c15-cf7d-47b8-bbcb-2cdeaa22a504",
+    "author": "Viktor Frankl",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Viktor_Frankl",
+    "skinTone": "#edb98a",
+    "tags": "Life",
+    "text": "Between stimulus and response there is a space. In that space is our power to choose our response. In our response lies our growth and our freedom."
+  },
+  {
+    "id": "e53487ff-d618-488d-b10b-08d266cbc474",
+    "author": "Eric Ries",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/ericries",
+    "skinTone": "#edb98a",
+    "tags": "Entrepreneurship",
+    "text": "Entrepreneurship is the art of weaving innovation into the fabric of everyday business."
+  },
+  {
+    "id": "c02d6736-4cd4-4f15-8020-23aaf7dba11f",
+    "author": "",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "skinTone": "#edb98a",
+    "tags": "Life",
+    "text": "You can literally change someone’s life by simply showing that you believe in them."
+  },
+  {
+    "id": "f9e0fd51-8dda-4034-aaec-e6c541b4c6fb",
+    "author": "Povilas Korop",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/PovilasKorop",
+    "skinTone": "#edb98a",
+    "tags": "Dreams,Life",
+    "text": "If thinking about your future doesn't get you excited, it's time to set new goals."
+  },
+  {
+    "id": "076c1f8e-ab47-4965-995b-fea37124d1c2",
+    "author": "Reid Hoffman",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/reidhoffman",
+    "skinTone": "#edb98a",
+    "tags": "Entrepreneurship",
+    "text": "In entrepreneurship, the ability to pivot and adapt is as important as having a solid plan."
+  },
+  {
+    "id": "b632c748-b492-4e6d-bb7f-ec7d4f892962",
+    "author": "🐢",
+    "datetime": "",
+    "gender": "f",
+    "reference": "https://twitter.com/turtlebreezee",
+    "skinTone": "#ae5d29",
+    "tags": "Love",
+    "text": "When you love yourself, you don’t require the world to."
+  },
+  {
+    "id": "51902f87-f657-4f78-873a-2c0dffab1d12",
+    "author": "Jack Canfield",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/JackCanfield",
+    "skinTone": "#edb98a",
+    "tags": "Entrepreneurship,Life",
+    "text": "Don’t worry about failures, worry about the chances you miss when you don’t even try."
+  },
+  {
+    "id": "74b2f24e-6c9d-4c5f-9549-8d72f176b1e7",
+    "author": "Jack Canfield",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/JackCanfield",
+    "skinTone": "#edb98a",
+    "tags": "Life",
+    "text": "Your habits will determine your future."
+  },
+  {
+    "id": "ac2c9565-70e1-4fee-b412-99ca4abc6197",
+    "author": "Jack Canfield",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/JackCanfield",
+    "skinTone": "#edb98a",
+    "tags": "Entrepreneurship,Success,Life",
+    "text": "Fear and risk are prerequisites if you want to enjoy a life of success and adventure."
+  },
+  {
+    "id": "efd13db8-a475-4eef-91aa-b3409d8e80aa",
+    "author": "Zig Ziglar",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/TheZigZiglar",
+    "skinTone": "#edb98a",
+    "tags": "Success,Self-improvement",
+    "text": "What you accomplish will never be as important as who you become."
+  },
+  {
+    "id": "50e2f800-8e39-4c37-8c4c-9c20b962b906",
+    "author": "",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "skinTone": "#edb98a",
+    "tags": "Entrepreneurship,Self-improvement",
+    "text": "Your skills are much more important than your grades."
+  },
+  {
+    "id": "ad73f814-41d7-4ef6-82b5-3b8c05d9c573",
+    "author": "Rick Warren",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/RickWarren",
+    "skinTone": "#edb98a",
+    "tags": "Life",
+    "text": "Nothing meaningful in life is easy; nothing easy is meaningful."
+  },
+  {
+    "id": "f8d2d278-9332-4715-b255-a128d09a6e9b",
+    "author": "",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "skinTone": "#edb98a",
+    "tags": "Success,Self-improvement",
+    "text": "Success is born from consistency."
+  },
+  {
+    "id": "41585abb-661e-4b49-9149-bcf887be5dab",
+    "author": "Barbara Corcoran",
+    "datetime": "",
+    "gender": "f",
+    "reference": "https://twitter.com/BarbaraCorcoran",
+    "skinTone": "#edb98a",
+    "tags": "Entrepreneurship",
+    "text": "In entrepreneurship, resilience is your compass in the storm of challenges."
+  },
+  {
+    "id": "162445a6-fa3d-4792-bc7e-609dae9754cc",
+    "author": "Mary Anne Radmacher",
+    "datetime": "",
+    "gender": "f",
+    "reference": "https://www.goodreads.com/author/show/149829.Mary_Anne_Radmacher",
+    "skinTone": "#edb98a",
+    "tags": "Courage",
+    "text": "Courage doesn't always roar.<br /> Sometimes courage is the little voice at the end of the day that says I'll try again tomorrow."
+  },
+  {
+    "id": "83c77006-acb2-4302-b527-ce38d717c6ce",
+    "author": "Dr. Henry Cloud",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/DrHenryCloud",
+    "skinTone": "#edb98a",
+    "tags": "Business,Entrepreneurship",
+    "text": "The most important factor of reaching any goal is believing it that can be done."
+  },
+  {
+    "id": "2b50f7a7-c335-416a-a1ff-a649b5896a92",
+    "author": "Mark Manson",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/IAmMarkManson",
+    "skinTone": "#edb98a",
+    "tags": "Self-improvement",
+    "text": "You have a moral responsibility to do what you do best because that is your service to the world."
+  },
+  {
+    "id": "d797f46f-a545-4519-8c87-bb024f909e01",
+    "author": "The Minimalists",
+    "datetime": "",
+    "gender": "a",
+    "reference": "https://twitter.com/TheMinimalists",
+    "skinTone": "#edb98a",
+    "tags": "Self-improvement",
+    "text": "Grace is measured by one’s ability to surrender to their imperfect past."
+  },
+  {
+    "id": "f55fb9cb-c249-4128-8ae3-3c9161d6489d",
+    "author": "Mark Manson",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/IAmMarkManson",
+    "skinTone": "#edb98a",
+    "tags": "Self-improvement",
+    "text": "Self-care means enriching your life with interesting challenges that force you to grow.<br /> So to take care of yourself, challenge yourself regularly."
+  },
+  {
+    "id": "98c4027b-063c-46f9-a9bf-1ee8229cb47d",
+    "author": "Lemon Squeezy",
+    "datetime": "",
+    "gender": "a",
+    "reference": "https://twitter.com/lmsqueezy",
+    "skinTone": "#edb98a",
+    "tags": "Business,Entrepreneurship,Success",
+    "text": "Embrace discomfort <br /> It's where the growth is ✨"
+  },
+  {
+    "id": "6849248a-0c08-467d-afe7-36a8e4641481",
+    "author": "Carl Jung",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Carl_Jung",
+    "skinTone": "#edb98a",
+    "tags": "Self-improvement",
+    "text": "The world will ask who you are, and if you do not know, the world will tell you."
+  },
+  {
+    "id": "202ed694-9c24-48d4-a4d4-36e1f3c0a620",
+    "author": "",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "skinTone": "#edb98a",
+    "tags": "Entrepreneurship",
+    "text": "Entrepreneurship is about seeing opportunities in problems and turning them into solutions."
+  },
+  {
+    "id": "7dc9e02f-fc9c-4920-b5b8-11689f16234e",
+    "author": "",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "skinTone": "#edb98a",
+    "tags": "Courage,Self-improvement",
+    "text": "A man who is willing to suffer in order to win is unbeatable."
+  },
+  {
+    "id": "29156879-c4d3-4001-8722-509a519a09e1",
+    "author": "",
+    "datetime": "",
+    "gender": "m",
+    "reference": "",
+    "skinTone": "#edb98a",
+    "tags": "Courage,Self-improvement",
+    "text": "In the end, we regret the chances we didn't take."
+  },
+  {
+    "id": "ddecdd6c-3c76-47a7-9d3a-5eb93993a61b",
+    "author": "Mark Manson",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/IAmMarkManson",
+    "skinTone": "#edb98a",
+    "tags": "Self-improvement",
+    "text": "Nobody else is responsible for your life but you.<br /> Many people may be at fault for your pain and unhappiness. But no one else is responsible for digging you out of that pain or unhappiness."
+  },
+  {
+    "id": "9e36612a-dada-4bb5-b7b5-a93e15159e8e",
+    "author": "Mark Manson",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/IAmMarkManson",
+    "skinTone": "#edb98a",
+    "tags": "Self-improvement",
+    "text": "Criticism is inevitable. Your reaction to that criticism is not."
+  },
+  {
+    "id": "9c56cd49-824b-4206-ac02-147ef6677018",
+    "author": "John C. Maxwell",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/TheJohnCMaxwell",
+    "skinTone": "#edb98a",
+    "tags": "Life,Self-improvement",
+    "text": "You'll never change your life until you change something you do daily. The secret of your success is found in your daily routine."
+  },
+  {
+    "id": "c67e4e49-430d-4571-a4bf-01325cda3f3c",
+    "author": "Andrew D. Huberman, Ph.D.",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/hubermanlab",
+    "skinTone": "#edb98a",
+    "tags": "Self-improvement",
+    "text": "At the end of the day, the only thing that you truly can control is where you place your attention and where you place your effort."
+  },
+  {
+    "id": "66e6018a-e424-46f9-bf32-63e74c0af3ba",
+    "author": "Ernest Hemingway",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://en.wikipedia.org/wiki/Ernest_Hemingway",
+    "skinTone": "#edb98a",
+    "tags": "Friendship",
+    "text": "The best way to find out if you can trust somebody is to trust them."
+  },
+  {
+    "id": "d1db8d9f-63d4-4843-a1cf-3c6ab2200c5f",
+    "author": "Morgan Housel",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/morganhousel",
+    "skinTone": "#edb98a",
+    "tags": "Business,Entrepreneurship",
+    "text": "Everything has a price, but not all prices appear on labels."
+  },
+  {
+    "id": "29635c45-5082-42bb-ae71-4a5427300b06",
+    "author": "Shane Parrish",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/ShaneAParrish",
+    "skinTone": "#edb98a",
+    "tags": "Business,Entrepreneurship,Life",
+    "text": "No one has all the answers at the beginning. Trust yourself and take the first step."
+  },
+  {
+    "id": "02c87d55-e499-4ddf-b7d9-741241572ad7",
+    "author": "Shane Parrish",
+    "datetime": "",
+    "gender": "m",
+    "reference": "https://twitter.com/ShaneAParrish",
+    "skinTone": "#edb98a",
+    "tags": "Business,Entrepreneurship,Life",
+    "text": "No one has all the answers at the beginning. Trust yourself and take the first step."
+  },
+  {
+    "id": "960b9e7c-1d73-4716-9ae4-f4f0384ce871",
+    "author": "",
+    "datetime": "",
+    "gender": "a",
+    "reference": "",
+    "skinTone": "#edb98a",
+    "tags": "Business,Entrepreneurship,Life",
+    "text": "70-20-10 Rule:<br />• 70% of your work will be mediocre<br />• 20% will suck<br />• 10% will be amazing<br /> If you're avoiding failure, you're avoiding success."
   }
 ]
